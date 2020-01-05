@@ -4,4 +4,4 @@ title: About
 type: page
 ---
 
-This is some static page where you can write about yourself.
+I'm a PhD student in political science at Harvard. I tweet at: @sophie_e_hill  
