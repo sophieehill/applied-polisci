@@ -3,98 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nasa/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <loc>/posts/post-7/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/nasa-images/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-5/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-6/</loc>
+    <lastmod>2018-03-18T12:13:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-4/</loc>
+    <lastmod>2018-03-18T12:13:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-3/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/procrastinating/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/quotes/</loc>
-    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+    <loc>/posts/post-2/</loc>
+    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/quotes-by-carl-jung/</loc>
-    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+    <loc>/tags/space/</loc>
+    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bootstrap/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
+    <loc>/tags/primer/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/css/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
+    <loc>/posts/post-1/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/style-a-markdown-table-with-bootstrap-classes-in-hugo/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fedora/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/snap/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ubuntu/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/awk/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/command-line/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/tags/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
   <url>
@@ -108,7 +88,7 @@
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -120,66 +100,6 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fun/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/git/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/migration/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

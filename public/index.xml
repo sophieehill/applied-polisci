@@ -1,68 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on My New Hugo Site</title>
+    <title>Ezhil</title>
     <link>/</link>
-    <description>Recent content in Home on My New Hugo Site</description>
+    <description>Recent content on Ezhil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Dec 2018 20:46:49 -0600</lastBuildDate>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NASA Images</title>
-      <link>/post/nasa-images/</link>
-      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>/post/nasa-images/</guid>
-      <description>Images from the NASA Image and Video Library.
- The Sun The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.
-   The Moon The Moon is an astronomical body that orbits planet Earth and is Earth&#39;s only permanent natural satellite.</description>
+      <guid>/about/</guid>
+      <description>This is some static page where you can write about yourself.</description>
     </item>
     
     <item>
-      <title>Quotes by Carl Jung</title>
-      <link>/post/quotes-by-carl-jung/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      <title>How to test dark mode?</title>
+      <link>/posts/post-7/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
       
-      <guid>/post/quotes-by-carl-jung/</guid>
-      <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. Carl Jung  The least of things with a meaning is worth more in life than the greatest of things without it. Carl Jung  Who looks outside, dreams; who looks inside, awakes.</description>
+      <guid>/posts/post-7/</guid>
+      <description>You can set dark mode as default by setting params.mode to dark in config.toml or set it to auto which will detect based on your OS and switch to dark mode. For more details refer documentation
+Here is how you can switch based on your OS
+ iOS Android macOS Windows 10  </description>
     </item>
     
     <item>
-      <title>Style a markdown table with Bootstrap classes in Hugo</title>
-      <link>/post/style-a-markdown-table-with-bootstrap-classes-in-hugo/</link>
-      <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
+      <title>Typography</title>
+      <link>/posts/post-5/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
       
-      <guid>/post/style-a-markdown-table-with-bootstrap-classes-in-hugo/</guid>
-      <description>Inspired by this discussion, I wanted the ability to style a markdown table with Bootstrap table classes. In the past, I&#39;ve accomplished this by defining the table in a data file, then building it with a shortcode.
-While this works fine, it&#39;s better for a different use case. I wanted something that meets the following criteria:
- The table is defined in markdown It lives in the content file, e.g. content/post/some-post.</description>
+      <guid>/posts/post-5/</guid>
+      <description>Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
+Heading 1 Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio.</description>
     </item>
     
     <item>
-      <title>Use Snap to install the Hugo edge version on Fedora and Ubuntu</title>
-      <link>/post/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Hugo shortcodes</title>
+      <link>/posts/post-6/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:36 +0530</pubDate>
       
-      <guid>/post/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</guid>
-      <description>If you are using the Fedora or Ubuntu Linux distributions &amp;ndash; I&#39;m currently on Fedora 28 &amp;ndash; and would like to help test the latest development version of Hugo, or if you just want to be on the bleeding-edge of things, this post is for you.
-Fedora-only steps To get started, install Snap on Fedora:
-sudo dnf install snapd Add the Snap directory to your PATH by adding this line to your ~/.</description>
+      <guid>/posts/post-6/</guid>
+      <description>Images   Dave Herring     Dave Herring   Github Gist  Youtube video   Tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
+&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Vimeo   Instagram    View this post on Instagram        #Talitha #Getty #yacht in #fjærland #fjærlandsfjorden #sognefjorden #mundal #norway #landscape #panorama #travel #instagoodmyphoto #justgoshoot #peoplescreatives #visualsoflife #photography #photoshoot #photodaily #photogram #instagood #picoftheday #fjærland #photooftheday #pentax #nrksf #sognavis</description>
     </item>
     
     <item>
-      <title>Script to add a page-level variable to content front matter in hugo</title>
-      <link>/post/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Getting Started with Traveling Ultralight</title>
+      <link>/posts/post-4/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>/post/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</guid>
-      <description>This was originally a question posed on the hugo discussion forums.
-The user wanted to loop through all her content files and add a weight page-level variable to the front matter. The value of weight needed to be the first 2 characters of the content filename, since her content was named like 01_content.md, 02_content.md, etc.
-She then wanted to range through her pages by their weight, like so:
-{{ range .</description>
+      <guid>/posts/post-4/</guid>
+      <description>I’m on a trip at the moment, and a friend who generously let me sleep on his couch looked at my small travel backpack and commented on how little I travel with: “That’s impressive,” he said.
+I was a little surprised, because though I’ve gotten that comment before, it’s become normal for me to travel with just a small bag (10 lbs. or less, usually), and I have friends who travel with even less.</description>
+    </item>
+    
+    <item>
+      <title>How I Learned to Stop Procrastinating, &amp; Love Letting Go</title>
+      <link>/posts/post-3/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
+      
+      <guid>/posts/post-3/</guid>
+      <description>The end of procrastination is the art of letting go.
+I’ve been a lifelong procrastinator, at least until recent years. I would put things off until deadline, because I knew I could come through. I came through on tests after cramming last minute, I turned articles in at the deadline after waiting until the last hour, I got things done.
+Until I didn’t. It turns out procrastinating caused me to miss deadlines, over and over.</description>
+    </item>
+    
+    <item>
+      <title>Fearlessness: How to Stop Running from Space</title>
+      <link>/posts/post-2/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      
+      <guid>/posts/post-2/</guid>
+      <description>We spend our days filling in every available space, cramming in more tasks, responding to messages, checking social media and online sites, watching videos.
+We are afraid of empty space in our lives.
+The result is often a continual busyness, constant distraction and avoidance, lack of focus, lack of satisfaction with our lives.
+We run from silence. We run from the spaces between tasks and appointments. We run from solitude and stillness.</description>
+    </item>
+    
+    <item>
+      <title>Primer: When You Have Too Much to Do</title>
+      <link>/posts/post-1/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>/posts/post-1/</guid>
+      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+It all keeps piling up, and it can feel overwhelming.
+How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
     </item>
     
     <item>
@@ -74,62 +105,6 @@ She then wanted to range through her pages by their weight, like so:
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
-We&#39;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>

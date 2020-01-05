@@ -1,16 +1,7 @@
 ---
-date: "2014-04-09"
+date: "2019-04-19T21:37:58+05:30"
 title: About
+type: page
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+This is some static page where you can write about yourself.
