@@ -13,7 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-155314533-1"
-# disqusShortname = "ezhil-demo"
+# disqusShortname = 
 
 [privacy]
   [privacy.disqus]
@@ -21,7 +21,7 @@ googleAnalytics = "UA-155314533-1"
 
 [params]
 	subtitle = "where academic research meets current events"
-	disableDisqusTypes = ["page"]
+	disableDisqusTypes = ["page", "posts"]
 	featherIconsCDN = true
 	mode = "light" # "dark", "auto", "light"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
