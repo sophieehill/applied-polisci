@@ -15,6 +15,10 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-155314533-1"
 # disqusShortname = "ezhil-demo"
 
+[privacy]
+  [privacy.disqus]
+    disable = true
+
 [params]
 	subtitle = "where academic research meets current events"
 	disableDisqusTypes = ["page"]
