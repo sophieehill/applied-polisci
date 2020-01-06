@@ -1,4 +1,4 @@
-baseURL = "https://goofy-bhaskara-40b755.netlify.com/"
+baseURL = "https://www.applied-polisci.com/"
 languageCode = "en-us"
 title = "Applied Poli Sci"
 theme = "ezhil"
@@ -12,11 +12,11 @@ pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ezhil-demo"
+googleAnalytics = "UA-155314533-1"
+# disqusShortname = "ezhil-demo"
 
 [params]
-	subtitle = "Where academic research meets current events"
+	subtitle = "where academic research meets current events"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "light" # "dark", "auto", "light"
