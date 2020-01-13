@@ -4,7 +4,8 @@ date: '2019-04-19T21:37:58+05:30'
 type: page
 ---
 
-![img1](/images/header_image.png)
+
+<img src="/./about_files/header_image.png" alt="" width="80%"/>
 
 
 My name is Sophie Hill. I'm a PhD student in political science at Harvard.

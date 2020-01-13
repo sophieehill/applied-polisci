@@ -15,6 +15,7 @@ description: Why didn't Labour campaign on the NHS?
 draft: yes
 ---
 
+
 voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [@armingeon2008conditional]
 
 ![](/post/2020-01-12-campaign-killer_files/armingeon_fig.png){width=80%}
