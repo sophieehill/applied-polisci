@@ -2,87 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Applied Poli Sci</title>
-    <link>/tags/</link>
+    <link>https://www.applied-polisci.com/tags/</link>
     <description>Recent content in Tags on Applied Poli Sci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.applied-polisci.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Campaigns</title>
-      <link>/tags/campaigns/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/campaigns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labour</title>
-      <link>/tags/labour/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/labour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>/tags/media/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parties</title>
-      <link>/tags/parties/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/parties/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public opinion</title>
-      <link>/tags/public-opinion/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/public-opinion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UK</title>
-      <link>/tags/uk/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/uk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Class</title>
-      <link>/tags/class/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/class/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Representation</title>
-      <link>/tags/representation/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/representation/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
