@@ -135,9 +135,12 @@ for some reason I can't get normal HTML to work in markdown
 this is a temporary hack */
 
 img[alt=img1] { 
-    width: 50%; 
+    width: 30%; 
     float:right; 
-    margin: 5px 10px 10px 10px;
+    vertical-align: middle
+    margin: 10px 200px 10px 10px;
+    max-height: 100px;
+    max-width: 100px;
 }
 
 
