@@ -7,7 +7,7 @@ body {
 }
 
 a, a:hover {
-    color: #0045d1;
+    color: #5291C7;
     text-decoration: none;
     word-break: break-word;
 }
@@ -66,7 +66,7 @@ blockquote {
     font-size: 1.4rem;
     font-family: Georgia,bitstream charter,serif;
     border-left: 3px solid;
-    border-color: #0045d1;
+    border-color: #5291C7;
     padding-left: 20px;
 }
 
@@ -80,7 +80,7 @@ blockquote em {
 }
 
 a,a:hover {
-    color: #0045d1;
+    color: #5291C7;
     text-decoration: none
 }
 
@@ -94,6 +94,52 @@ h1,h2,h3,h4,h5,h6 {
     color: #333;
     font-weight: 200;
 }
+
+logo {
+    position:absolute;
+    right:0;
+    vertical-align: middle;
+}
+
+titles
+{
+ text-align: center;  
+ vertical-align: middle;
+}
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+/* this is a VERY bad way of changing the image size
+for some reason I can't get normal HTML to work in markdown
+this is a temporary hack */
+
+img[alt=img1] { 
+    width: 50%; 
+    float:right; 
+    margin: 5px 10px 10px 10px;
+}
+
 
 h1 {
     font-size: 2.75rem;
@@ -296,7 +342,7 @@ ul {
 }
 
 .post .draft-label {
-    color: #0045d1;
+    color: #5291C7;
     text-decoration: none;
     padding: 2px 4px;
     border-radius: 4px;
@@ -311,10 +357,10 @@ ul {
 
 .post-tags .tags a {
     display: inline-block;
-    border: 1px solid #0045d1;
+    border: 1px solid #5291C7;
     border-radius: 4px;
     padding: 0px 6px;
-    color: #0045d1;
+    color: #5291C7;
     line-height: 20px;
     font-size: 12px;
     text-decoration: none;

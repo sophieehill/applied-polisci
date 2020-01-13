@@ -18,8 +18,10 @@ googleAnalytics = "UA-155314533-1"
 [privacy]
   [privacy.disqus]
     disable = true
+    
 
 [params]
+  logo = "/images.header_image.PNG"     # added by me for logo image in header
 	subtitle = "where academic research meets current events"
 	disableDisqusTypes = ["page", "posts"]
 	featherIconsCDN = true
@@ -48,15 +50,15 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/sophie_e_hill"
+# [[params.social]]
+# name = "Twitter"
+# icon = "twitter"
+# url = "https://twitter.com/sophie_e_hill"
 
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+# [[params.social]]
+# name = "RSS"
+# icon = "rss"
+# url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
