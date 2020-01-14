@@ -10,8 +10,8 @@
 				Recent posts
 			</h2>
 			<div class="posts">
-				{{ $pages := (where (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) "Draft" "==" false).GroupByDate "2006"}}
-				{{ $paginator := .Paginate (where (where $pages "Params.hidden" "ne" true) "Draft" "==" false).GroupByDate "2006" }}
+				{{ $pages := (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+				{{ $paginator := .Paginate where $pages "Params.hidden" "ne" true }}
 				{{ range $paginator.Pages }}
 				<div class="post">
 				  {{ if not .Draft }}
