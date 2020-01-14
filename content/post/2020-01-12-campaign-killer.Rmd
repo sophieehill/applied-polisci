@@ -12,7 +12,7 @@ tags:
   - Public opinion
   - UK
 description: Why didn't Labour campaign on the NHS?
-draft: false
+draft: true
 ---
 
 

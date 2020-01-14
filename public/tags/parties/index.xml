@@ -2,24 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parties on Applied Poli Sci</title>
-    <link>https://www.applied-polisci.com/tags/parties/</link>
+    <link>/tags/parties/</link>
     <description>Recent content in Parties on Applied Poli Sci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.applied-polisci.com/tags/parties/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/parties/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Where does &#34;competence&#34; come from?</title>
+      <link>/post/competence/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/competence/</guid>
+      <description>individual legislators are perceived are more trustworthy when they dissent [@campbell2016legislator]</description>
+    </item>
+    
+    <item>
       <title>Health and Safety</title>
-      <link>https://www.applied-polisci.com/post/labour-health-plan/</link>
+      <link>/post/labour-health-plan/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.applied-polisci.com/post/labour-health-plan/</guid>
+      <guid>/post/labour-health-plan/</guid>
       <description> voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [@armingeon2008conditional]
  !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); </description>
+    </item>
+    
+    <item>
+      <title>How can Labour recover? Recruitment, recruitment, recruitment.</title>
+      <link>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</guid>
+      <description></description>
     </item>
     
   </channel>
