@@ -13,7 +13,7 @@
 		{{ end }}
 
 		<ul class="posts">
-		    {{ range (where .Data.Pages "Draft" "==" false).GroupByDate "2006" }}
+		    {{ range (where .Data.Pages "Draft" "==" false) }}
 			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
 			{{- else -}}
 			<li class="post">

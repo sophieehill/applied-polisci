@@ -11,7 +11,7 @@
 			</h2>
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+				{{ $paginator := .Paginate (where (where $pages "Params.hidden" "ne" true) "Draft" "==" false)}}
 				{{ range $paginator.Pages }}
 				<div class="post">
 					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
