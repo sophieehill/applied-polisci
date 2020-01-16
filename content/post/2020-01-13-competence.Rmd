@@ -1,5 +1,5 @@
 ---
-title: Where does "competence" come from?
+title: Getting fit
 author: Sophie Hill
 date: '2020-01-13'
 slug: competence
@@ -13,7 +13,81 @@ tags:
   - Public opinion
   - UK
 draft: true
+description: How can Labour convince voters it is ready to run the country?
+bibliography: "b.bib"
+link-citations: true
+csl: international-journal-of-simulation-modelling.csl
 ---
 
+> "Labour economic policies are popular, so why aren’t Labour?" 
+
+As this [analysis from YouGov](https://yougov.co.uk/topics/politics/articles-reports/2019/11/12/labour-economic-policies-are-popular-so-why-arent-) suggests, Labour's policy proposals were popular when taken one-by-one, but when voters step back and evaluate which party would do best on the economy overall, Labour is at a severe disadvantage.
+
+Voters were twice as likely to pick Boris Johnson (34%) over Jeremy Corbyn (16%), when asked who they trusted most to run the economy.
+
+
+![](/post/2020-01-13-competence_files/yougov_competence.png){width=80%}
+
+It is no wonder, then, that in the wake of Labour's electoral defeat, many have argued that Labour can only win if it convinces the voters that the party would be a competent stweard of the economy.
+
+
+https://www.independent.co.uk/voices/labour-leadership-corbyn-boris-johnson-brexit-media-a9268171.html
+
+### Policy positions and perceptions of competence
+
+[@johns2019moderation]
+
+![](/post/2020-01-13-competence_files/conjoint.png){width=80%}
+
+note: now would be a good time to adjust policy, since research shows that voters only notice these shifts when there's a fresh face leading the party [@fernandez2019informational]
+
+BUT: we have seen this before! march to the center = weakening party attachments... 
+
+> The party’s transformation from an organization combining the
+defense of social position, the quality of spiritual shelter, and the vision of things to come into that of a vehicle for short-range and interstitial political choice exposes the party to the hazards of all purveyors of nondurable consumer goods: competition with a more attractively packaged brand of nearly identical merchandise.
+
+PLUS: voters discount opportunistic moves by parties. When mainstream parties move towards the centre, voters discount this. [@fernandez2018voter]
+
+### LEADER IS KEY
+
+
+![](/post/2020-01-13-competence_files/leader_effects.png){width=80%}
+
+[@da2019party] analyze results from 52 national election surveys from 13 Western European parliamentary democracies between 1974 and 2016. they show that leader effects (i.e. how much someone likes their most liked leader) have become more important to turnout, versus simple partisanship
+
+[@da2018fostering] shows that this effect is driven by responses among prior non-voters
+![](/post/2020-01-13-competence_files/turnout.png){width=80%}
+
+### Other signals of competence
+
+using numbers conveys competence [@pedersen2017politicians]
 
 individual legislators are perceived are more trustworthy when they dissent [@campbell2016legislator]
+
+### Is competence all-important?
+
+this study suggests that perceptions of _warmth_ (think: trustworthiness, honesty, integrity) are actually more important than perceptions of competence in determining vote choice.
+
+note they use survey data from the US and also a survey experiment to show causality [@laustsen2017relative]
+
+well, surely Labour has an advantage on that?? 
+
+yes, in general RW parties own competence and LW parties own character [@bittner2011platform]
+
+yes, but actually a very small one in 2019... 
+
+so, a plausible alternative strategy is to really double down on "nasty party" attacks and hype up warmth...
+
+indeed, warmth is more important to left-wing voters, while strong leadership (somewhat closer to competence?) is more important to right-wing voters... 
+
+[@laustsen2017choosing]
+
+![](/post/2020-01-13-competence_files/warm_powerful.png){width=80%}
+
+### Strategies for Labour
+
+1. Focus on improving Labour's perceived competence. 
+1. Double down on warmth. Pick a leader with an impeccable record. Deal with anti-Semitism issue.
+
+
+### References

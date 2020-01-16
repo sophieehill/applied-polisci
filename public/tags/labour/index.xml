@@ -13,12 +13,14 @@
     
     
     <item>
-      <title>Where does &#34;competence&#34; come from?</title>
+      <title>Getting fit</title>
       <link>/post/competence/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/competence/</guid>
-      <description>individual legislators are perceived are more trustworthy when they dissent [@campbell2016legislator]</description>
+      <description>“Labour economic policies are popular, so why aren’t Labour?”
+ As this analysis from YouGov suggests, Labour’s policy proposals were popular when taken one-by-one, but when voters step back and evaluate which party would do best on the economy overall, Labour is at a severe disadvantage.
+Voters were twice as likely to pick Boris Johnson (34%) over Jeremy Corbyn (16%), when asked who they trusted most to run the economy.</description>
     </item>
     
     <item>
@@ -27,8 +29,8 @@
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/labour-health-plan/</guid>
-      <description> voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [@armingeon2008conditional]
- !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); </description>
+      <description>!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [1]
+ !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); [1] Armingeon, K.; Giger, N. (2008). Conditional punishment: A comparative analysis of the electoral consequences of welfare state retrenchment in oecd nations, 1980–2003, West European Politics, Vol. 31, No. 3, 558–580</description>
     </item>
     
     <item>

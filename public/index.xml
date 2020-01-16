@@ -2,22 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applied Poli Sci</title>
-    <link>https://www.applied-polisci.com/</link>
+    <link>/</link>
     <description>Recent content on Applied Poli Sci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.applied-polisci.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Getting fit</title>
+      <link>/post/competence/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/competence/</guid>
+      <description>“Labour economic policies are popular, so why aren’t Labour?”
+ As this analysis from YouGov suggests, Labour’s policy proposals were popular when taken one-by-one, but when voters step back and evaluate which party would do best on the economy overall, Labour is at a severe disadvantage.
+Voters were twice as likely to pick Boris Johnson (34%) over Jeremy Corbyn (16%), when asked who they trusted most to run the economy.</description>
+    </item>
+    
+    <item>
+      <title>Health and Safety</title>
+      <link>/post/labour-health-plan/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/labour-health-plan/</guid>
+      <description>!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [1]
+ !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); [1] Armingeon, K.; Giger, N. (2008). Conditional punishment: A comparative analysis of the electoral consequences of welfare state retrenchment in oecd nations, 1980–2003, West European Politics, Vol. 31, No. 3, 558–580</description>
+    </item>
+    
+    <item>
+      <title>Was It The Slogan Wot Won It?</title>
+      <link>/post/it-s-the-slogan-wot-won-it-or-is-it-did-get-brexit-done-help-the-tories-win-in-2019/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/it-s-the-slogan-wot-won-it-or-is-it-did-get-brexit-done-help-the-tories-win-in-2019/</guid>
+      <description>TL;DR: No.
+“Get Brexit Done.” Those were “the three words that helped Boris Johnson win” Britain’s 2019 election, according to Time Magazine.
+It was a “golden key” that unlocked a Conservative victory, says the Telegraph.
+Not to be outdone, this Spectactor columnist thinks it was a “work of of political genius”, with “power, more power than us smug, clever types who obsess about details and facts naturally recognise”.
+Even prominent Labour figures like John McDonell said that the slogan had “successfully resonated” with voters.</description>
+    </item>
+    
+    <item>
+      <title>How can Labour recover? Recruitment, recruitment, recruitment.</title>
+      <link>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://www.applied-polisci.com/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>https://www.applied-polisci.com/about/</guid>
+      <guid>/about/</guid>
       <description>My name is Sophie Hill. I&#39;m a PhD student in political science at Harvard.
 The aim of this blog is to make political science research accessible and (hopefully!) relevant to topical debates about elections, policy, and public opinion.</description>
     </item>

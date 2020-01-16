@@ -1,3 +1,10 @@
+
+img + em { 
+    display: block; 
+    text-align: center;
+    font-size: .5rem;
+    color: light-grey;}
+
 body {
     font-family: "ubuntu", sans-serif;
     font-weight: 400;

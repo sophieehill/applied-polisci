@@ -12,8 +12,16 @@ tags:
   - Public opinion
   - UK
 description: Why didn't Labour campaign on the NHS?
+bibliography: "b.bib"
+link-citations: true
+csl: international-journal-of-simulation-modelling.csl
 draft: true
 ---
+
+
+
+
+<iframe title="Mentions of &quot;NHS&quot; in manifesto" aria-label="Interactive line chart" id="datawrapper-chart-pJHEi" src="//datawrapper.dwcdn.net/pJHEi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 
 voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [@armingeon2008conditional]
