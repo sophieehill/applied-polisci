@@ -28,7 +28,7 @@ Voters were twice as likely to pick Boris Johnson (34%) over Jeremy Corbyn (16%)
 
 ![](/post/2020-01-13-competence_files/yougov_competence.png){width=80%}
 
-It is no wonder, then, that in the wake of Labour's electoral defeat, many have argued that Labour can only win if it convinces the voters that the party would be a competent stweard of the economy.
+It is no wonder, then, that in the wake of Labour's electoral defeat, many have argued that Labour can only win if it convinces the voters that the party would be a competent steward of the economy.
 
 
 https://www.independent.co.uk/voices/labour-leadership-corbyn-boris-johnson-brexit-media-a9268171.html
@@ -38,6 +38,8 @@ https://www.independent.co.uk/voices/labour-leadership-corbyn-boris-johnson-brex
 [@johns2019moderation]
 
 ![](/post/2020-01-13-competence_files/conjoint.png){width=80%}
+
+and indeed empirically we see that parties that suffer valence damage tend to respond by moderating [@clark2014understanding]
 
 note: now would be a good time to adjust policy, since research shows that voters only notice these shifts when there's a fresh face leading the party [@fernandez2019informational]
 
@@ -82,7 +84,14 @@ indeed, warmth is more important to left-wing voters, while strong leadership (s
 
 [@laustsen2017choosing]
 
+note: @groenendyk2019two show that a "good gut feeling" is crucial in helping low-turnout voters to overcome their ambivalence. "good gut feeling" is linked to warmth - who would you like to have a beer with.
+
 ![](/post/2020-01-13-competence_files/warm_powerful.png){width=80%}
+
+### Competence is situationally dependent!
+
+@laustsen2019online show that dominance is associated with competence in times of "conflict" - but not otherwise. show panel waves. note, this effect overwhelms policy considerations among "non-memorizers"! what does this mean? people have multiple online tallies, and retrieve different ones in different contexts - imagine we gave 10 points to hufflepuff for being smart, etc. etc. 
+
 
 ### Strategies for Labour
 

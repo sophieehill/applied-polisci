@@ -21,9 +21,10 @@ head(pb)
 # create indicator for GE
 pb$GE.ind <- ifelse(pb$X2=="GE", 1, 0)
 
+library(lubridate)
 # convert date format
 pb$month <- ifelse(pb$X2=="GE", NA, pb$X2)
-pb$date <- ifelse(is.na(pb$month), NA, paste("01-", pb$month,sep="")))
+pb$date <- ifelse(is.na(pb$month), NA, paste("01-", pb$month,sep=""))
 pb$date <- as.Date(pb$date, format="%d-%b-%y") # %b means the month is writing in characters not numbers (e.g. "Dec" instead of "12")
 pb$date
 

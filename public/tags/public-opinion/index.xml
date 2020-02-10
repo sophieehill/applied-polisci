@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/public-opinion/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hokus focus (group)</title>
+      <link>/post/focus-group/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/focus-group/</guid>
+      <description>“I’ve voted Labour all my life, but won’t vote for Corbyn”
+@himmelweit1978memory show that voters are not very accurate in recalling their vote at past elections
+Proofiness Let’s start with a more basic question: if we wanted to show that campaign slogans affect election results, what kind of evidence would we need?
+One answer - suggested by many commentators - is to ask voters why they are voting the way they are.</description>
+    </item>
     
     <item>
       <title>Getting fit</title>
@@ -24,26 +36,25 @@ Voters were twice as likely to pick Boris Johnson (34%) over Jeremy Corbyn (16%)
     </item>
     
     <item>
-      <title>Health and Safety</title>
-      <link>/post/labour-health-plan/</link>
+      <title>Low yield investments</title>
+      <link>/post/low-yield/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/labour-health-plan/</guid>
-      <description>!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [1]
- !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); [1] Armingeon, K.; Giger, N. (2008). Conditional punishment: A comparative analysis of the electoral consequences of welfare state retrenchment in oecd nations, 1980–2003, West European Politics, Vol. 31, No. 3, 558–580</description>
+      <guid>/post/low-yield/</guid>
+      <description>!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}();  !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [1]
+ !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); ??? NHS by far best issue yield for Labour - see Table of valence issues - Labour most credible only on NHS and protecting pensions, former is higher priority…</description>
     </item>
     
     <item>
-      <title>Was It The Slogan Wot Won It?</title>
-      <link>/post/it-s-the-slogan-wot-won-it-or-is-it-did-get-brexit-done-help-the-tories-win-in-2019/</link>
+      <title>Slogun to the head?</title>
+      <link>/post/slogan-2019/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/it-s-the-slogan-wot-won-it-or-is-it-did-get-brexit-done-help-the-tories-win-in-2019/</guid>
-      <description>TL;DR: No.
-“Get Brexit Done.” Those were “the three words that helped Boris Johnson win” Britain’s 2019 election, according to Time Magazine.
-It was a “golden key” that unlocked a Conservative victory, says the Telegraph.
+      <guid>/post/slogan-2019/</guid>
+      <description>“Get Brexit Done.” Those were “the three words that helped Boris Johnson win” Britain’s 2019 election, according to Time Magazine.
+The slogan was a “golden key” that unlocked a Conservative victory, says the Telegraph.
 Not to be outdone, this Spectactor columnist thinks it was a “work of of political genius”, with “power, more power than us smug, clever types who obsess about details and facts naturally recognise”.
-Even prominent Labour figures like John McDonell said that the slogan had “successfully resonated” with voters.</description>
+Even prominent Labour figures like John McDonnell said that the slogan had “successfully resonated” with voters.</description>
     </item>
     
   </channel>

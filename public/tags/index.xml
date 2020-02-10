@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Campaigns</title>
       <link>/tags/campaigns/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/campaigns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public opinion</title>
+      <link>/tags/public-opinion/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/public-opinion/</guid>
       <description></description>
     </item>
     
@@ -45,15 +54,6 @@
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/parties/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public opinion</title>
-      <link>/tags/public-opinion/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/public-opinion/</guid>
       <description></description>
     </item>
     

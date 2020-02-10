@@ -1,0 +1,40 @@
+---
+title: Hokus focus (group)
+author: Sophie Hill
+date: '2020-01-19'
+slug: focus-group
+categories:
+  - Methods
+tags:
+  - Campaigns
+  - Public opinion
+draft: yes
+description: What can we learn from focus groups?
+---
+
+"I've voted Labour all my life, but won't vote for Corbyn"
+
+@himmelweit1978memory show that voters are not very accurate in recalling their vote at past elections
+
+![](/post/2020-01-19-focus-group_files/hp_memory.gif)
+
+![](/post/2020-01-19-focus-group_files/hp_runningtally.gif)
+
+
+### Proofiness
+
+Let's start with a more basic question: if we wanted to show that campaign slogans affect election results, what kind of evidence would we need?
+
+One answer - suggested by [many](https://www.theguardian.com/politics/2019/dec/06/johnsons-get-brexit-done-strategy-resonates-with-marginal-focus-groups) [commentators](https://www.ft.com/content/c75273fe-183d-11ea-8d73-6303645ac406) - is to ask voters why they are voting the way they are. And, lo and behold, many participants in these focus groups explicitly said they were voting Conservative _in order to Get Brexit Done_. 
+
+A smoking gun, surely? Straight from the voter's mouth!
+
+Perhaps not. These anecdotes are closer to _proofiness_ that, erm, proof.^[Inspired by Stephen Colbert's "[truthiness](https://www.merriam-webster.com/words-at-play/truthiness-meaning-word-origin)", the quality of seeming to be true but not necessarily or actually true according to known facts.]
+
+Voters are not the best guides to what is in their heads.
+
+They underestimate how much their beliefs are affected by others in a group discussion, even misremembering their initial attitudes [@keating2016partisan]
+
+voters do not actually place more weight on the issue they say is "most important" [@bartle2012telling]
+
+@theodoridis2017me voters don't just have implicit attitudes, they also have implicit _identities_. it has been well-known, for example, that many of those who identify as independents who, say, lean towards the Democratic party in the US, look much more like Democrats than pure Independents... this paper demostrates this with an implicit association test that forms a much better scale of partisan attachment!
