@@ -56,9 +56,9 @@ Typically the predictors we use are "fundamental" factors like the state of the 
 
 What's really striking is that even in the age of waning party attachments and (supposedly) increasingly sophisticated campaigns, fundamental factors do as good a job in predicting election results now as they did 50 years ago [@nadeau2019election].
 
-{{< spoiler text="Click to reveal text" >}} You found me! {{< /spoiler >}}
-
-{{%expand "Is this learn theme rocks ?" %}}Yes !.{{% /expand%}}
+{{< expand "Is this learn theme rocks ?" >}}
+Yes !.
+{{< /expand >}}
 
 
 ### 2. Experimental evidence
