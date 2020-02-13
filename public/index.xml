@@ -2,85 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applied Poli Sci</title>
-    <link>/</link>
+    <link>https://www.applied-polisci.com/</link>
     <description>Recent content on Applied Poli Sci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.applied-polisci.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>test</title>
-      <link>/post/test/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/test/</guid>
-      <description>   Is this learn theme rocks ?   Yes !.   </description>
-    </item>
-    
-    <item>
-      <title>Hokus focus (group)</title>
-      <link>/post/focus-group/</link>
-      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/focus-group/</guid>
-      <description>“I’ve voted Labour all my life, but won’t vote for Corbyn”
-@himmelweit1978memory show that voters are not very accurate in recalling their vote at past elections
-Proofiness Let’s start with a more basic question: if we wanted to show that campaign slogans affect election results, what kind of evidence would we need?
-One answer - suggested by many commentators - is to ask voters why they are voting the way they are.</description>
-    </item>
-    
-    <item>
-      <title>Getting fit</title>
-      <link>/post/competence/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/competence/</guid>
-      <description>“Labour economic policies are popular, so why aren’t Labour?”
- As this analysis from YouGov suggests, Labour’s policy proposals were popular when taken one-by-one, but when voters step back and evaluate which party would do best on the economy overall, Labour is at a severe disadvantage.
-Voters were twice as likely to pick Boris Johnson (34%) over Jeremy Corbyn (16%), when asked who they trusted most to run the economy.</description>
-    </item>
-    
-    <item>
-      <title>Low yield investments</title>
-      <link>/post/low-yield/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/low-yield/</guid>
-      <description>!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}();  !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [1]
- !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); ??? NHS by far best issue yield for Labour - see Table of valence issues - Labour most credible only on NHS and protecting pensions, former is higher priority…</description>
-    </item>
-    
-    <item>
-      <title>Slogun to the head?</title>
-      <link>/post/slogan-2019/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/slogan-2019/</guid>
-      <description>“Get Brexit Done.” Those were “the three words that helped Boris Johnson win” Britain’s 2019 election, according to Time Magazine.
-The slogan was a “golden key” that unlocked a Conservative victory, says the Telegraph.
-Not to be outdone, this Spectactor columnist thinks it was a “work of of political genius”, with “power, more power than us smug, clever types who obsess about details and facts naturally recognise”.
-Even prominent Labour figures like John McDonnell said that the slogan had “successfully resonated” with voters.</description>
-    </item>
-    
-    <item>
-      <title>How can Labour recover? Recruitment, recruitment, recruitment.</title>
-      <link>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://www.applied-polisci.com/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://www.applied-polisci.com/about/</guid>
       <description>My name is Sophie Hill. I&#39;m a PhD student in political science at Harvard.
 The aim of this blog is to make political science research accessible and (hopefully!) relevant to topical debates about elections, policy, and public opinion.</description>
     </item>
