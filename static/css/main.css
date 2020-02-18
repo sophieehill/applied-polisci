@@ -22,11 +22,7 @@ details > p {
   box-shadow: 3px 3px 4px black;
 }
 
-img + em { 
-    display: block; 
-    text-align: center;
-    font-size: .5rem;
-    color: light-grey;}
+
 
 body {
     font-family: "ubuntu", sans-serif;
@@ -34,6 +30,14 @@ body {
     color: #333;
     line-height: 1.6;
     font-size: 16px;
+}
+
+img {
+    color: #808080;
+    display: block; 
+    font-size: 12px;
+    text-align: center;
+    font-style: italic;
 }
 
 a, a:hover {

@@ -1,5 +1,5 @@
 ---
-title: Slogun to the head?
+title: Slogun to the head
 author: Sophie Hill
 date: '2020-01-09'
 slug: slogan-2019
@@ -9,7 +9,7 @@ tags:
   - Campaigns
   - Media
   - Public opinion
-draft: true
+draft: false
 description: Did "Get Brexit Done" help the Tories win in 2019?
 bibliography: "b.bib"
 link-citations: true
@@ -23,7 +23,7 @@ output:
 
 The slogan was a "[golden key](https://www.telegraph.co.uk/politics/2019/12/14/get-brexit-done-perhaps-greatest-example-golden-slogan-lifetime/)" that unlocked a Conservative victory, says the Telegraph.
 
-Not to be outdone, this Spectactor columnist thinks it was a "[work of political genius](https://blogs.spectator.co.uk/2019/09/the-genius-of-boriss-brexit-slogan/)", with "power, more power than us smug, clever types who obsess about details and facts naturally recognise".
+Not to be outdone, a Spectactor columnist wrote that it was a "[work of political genius](https://blogs.spectator.co.uk/2019/09/the-genius-of-boriss-brexit-slogan/)", with "power, more power than us smug, clever types who obsess about details and facts naturally recognise".
 
 Even prominent Labour figures like John McDonnell said that the slogan had "[successfully resonated](https://labourlist.org/2019/12/i-dont-think-our-narrative-was-good-enough-says-mcdonnell/)" with voters.
 
@@ -50,30 +50,100 @@ One big reason for being skeptical about campaign effects is that we can do a pr
 
 Typically the predictors we use are "fundamental" factors like the state of the economy and the government's approval rating in the polls, measured before the formal campaign period begins. 
 
-Interestingly, even in the age of waning party attachments and (supposedly) more sophisticated campaigns, fundamental factors do as good a job at predicting election results now as they did 50 years ago [@nadeau2019election].
+Even now, with historic levels of voter volatility and 
+when voters are less attached to parties and campaigns are using data-driven targeting strategies, fundamental factors do as good a job at predicting election results now as they did 50 years ago. [@nadeau2019election]
 
-![](/post/2020-01-09-slogan_files/residuals.png){width=80%}
+<img src="/images/residuals.png" alt="Figure 1 from Nadeau et al. (2019). This graph displays the absolute unstandardized residuals for the incumbent vote model in Australia, Canada, Denmark, Germany, the UK and the USA (1955–2017)." width="80%" />
+
 
 <details>
   <summary>What does this chart show?</summary>
- <p> This chart shows the size of the prediction error from a simple model based on "fundamentals" (support for incumbent in the polls and GDP growth, both measured 3 months before the election) to predict election results. The "error" is just the difference between the incumbent vote share predicted by the model and the actual incumbent vote share in that election. The higher the dot, the larger the prediction error. The horizontal line is a slightly-fancier version of a moving average. It shows that the size of these prediction errors hasn't changed over time: the fundamental model is as good at predicting elections now as it was 60 years ago! </p>
+ <p> This chart shows the size of the prediction error from a simple model based on "fundamentals" (support for incumbent in the polls and GDP growth, both measured 3 months before the election) to predict election results. The "error" is the difference between the incumbent vote share predicted by the model and the actual incumbent vote share in that election. The higher the dot, the larger the prediction error. Most of the errors are under 5 percentage points, though there are a few outliers corresponding to elections in which the incumbent party suffered an historic landslide defeat. The horizontal line is a slightly-fancier version of a moving average. It shows that the size of these prediction errors hasn't changed over time: the fundamental model is as good at predicting elections now as it was 60 years ago! </p>
 </details> 
 
-#### 2. Experimental evidence
+#### 2. Causal evidence
 
-If we _really_ want to know whether something has a causal effect, then, just like if we were testing whether a new drug helps with a certain disease, we need to do a controlled experiment. 
+Political scientists have also spent a long time trying to directly estimate the causal effect of campaign contact on voter persuasion. 
 
-How does this work for political "treatments" instead of medical ones? Well, typically a researcher will partner with a political candidate or party, and convince them to randomize some aspect of their campaign - e.g. by flipping a coin to decide which houses to canvass, or which markets to air TV ads, or which addresses to send leaflets.
+Often, this means conducting a field experiment, where the researcher partners with a campaign and randomizes some aspect of the campaign outreach.
 
-Political scientists have been doing this sort of thing for a while, though most of the experimental evidence comes from the US context. In fact, there are enough studies out there using fairly similar designs that we can combine them in a "meta-analysis". 
+<img src="/images/random.gif" alt="Animated gif from the TV show Summer Heights High, in which a character says 'I am so random, I can't believe I just did that...'" width="50%" />
 
-A meta-analysis lets us answer the question: given all of these studies, what is our best guess of the true effect of campaign contact on voter behaviour?
+For example, imagine that you have a list of all the households in a certain district, and for each one you flip a coin to determine whether or not that household receives a campaign leaflet. Then you can conduct a follow-up survey of all households in that district and compare the "treatment" and "control" groups to isolate the effect of the leaflets on support for a given candidate or issue.
+
+We can also try to estimate a causal effect even when there wasn't a randomized controlled experiment but, well, that's a subject for another post... 
+
+There are many existing studies that use real-world experiments to estimate the effect of campaign contact on voter behaviour. (Though almost all are from the US context, making it harder to generalize these findings to other countries.) 
+
+Rather than focus on any one particular study, what we really want to do is to somehow _aggregate_ all of the existing evidence.
+
+And luckily for us, political scientists [Josh Kalla](https://twitter.com/j_kalla) and [David Broockman](https://twitter.com/dbroockman) have done just that! They conducted a _meta-analysis_, aggregating evidence from 40 existing studies that estimated the causal effect of campaign contact (mail, phone calls, TV, online ads, canvassing) on voter persuasion. [@kalla2018minimal]
+
+Here's what they found:
+
+>Together, these studies suggest that the most optimistic estimate that could be warranted from the literature is that campaign contact persuades about 1 in 175 voters, but that our best guess is that it persuades about 1 in 800 voters, substantively zero.
+
+That's right. Based on all of the existing evidence, our _best guess_ of the effect of campaign contact during general elections is **zero**.
+
+But... Kalla & Broockman didn't stop there. Next, they partnered with an independent campaign group and did *a bunch more experiments*! 
 
 
-Well, thanks to Josh Kalla and David Broockman 
-The first meta-analysis focuses on personal campaign contact (phone calls or door-to-door canvassing) and aggregates evidence from 49 field experiments [@kalla2018minimal]. The authors conclude that "the best estimate of the effects of campaign contact and advertising on Americans' candidates choices in general elections is zero".
+### Secret sauce
+
+So at this point you might be thinking: well, this evidence is about campaign _contact_ not campaign messaging.
+
+And... that's true. It's hard to evaluate how good "Get Brexit Done" is relative to other slogans, because we don't really know what that universe is. 
+
+It's possible that while most campaign persuasion is ineffective - maybe THIS was the one slogan that really did reasonate!
+
+So... first off I will note that this type of "secret sauce" argument is pretty difficult to falsify. 
+
+However, maybe we can test this directly. Suppose that the Get Brexit Done slogan really had an impact. What are some observable implications?
+
+1. increased salience of Brexit during the campaign
+
+2. voters feeling relieved at the prospect of brexit being over
+
+3. increased clarity around the Tory position on breixt?
+
+### Targeting
+
+OK so maybe it didn't have an impact that we can detect when we look at voters overall - but maybe it was targeted towards some key groups, say swing voters in marginal seats?
+
+Looking at the Conservatives spending on Facebook ads I was struck by a couple things.
+
+First, Get Brexit Done appears fairly often. And it is packaged in various different ways to appeal to different groups. So - if anything - this appears to be a kind of omnibus slogan, and the targeted part comes in the style and format of the ad.
+
+Second, the bulk of Tory ads on Facebook were really about Corbyn.
+
+### Was it actually about persuasion?
+
+So you might be wondering. If political scientists are so convinced that campaign persuasion doesn't really work... why are campaigns still spending so much money on it??
+
+Well - a number of reasons. Campaign operatives don't really have an incentive to make themselves redundant. Also if one side completely gave up the dynamic would be different. Ads might have indirect effects - e.g. generating media coverage on favorable issues? 
+
+But - another possibility. What if these ads are not intended to persuade anyone?
+
+most of these ads click through to a data-gathering exercise.
+
+collecting contact information and political attitudes on lots of people.
+
+not so much about persuasion as identifying voters who already sympathize with you and gathering a BUNCH of data on them.
+
+why? so you can get them to the polls!
 
 
+this could be used to targeting GOTV efforts.
+
+and NOTE - these actually work!
+
+### How to talk about campaigns
+
+1. Don't say that a slogan/policy/candidate "resonated" with voters. 
+
+2. Memorable slogans don't always reflect the bulk of the messaging that voters receive.
+
+2. Campaigns are more about GOTV than about appealing to swing voters. 
 
 ### Walking the walk
 
