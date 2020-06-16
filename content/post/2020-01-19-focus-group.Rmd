@@ -12,13 +12,36 @@ draft: yes
 description: What can we learn from focus groups?
 ---
 
+Arguments in favour of the usefulness of focus groups:
+
+1. They tell us things that pollsters might miss
+
+I've always been puzzled by this argument. Most standard political surveys include at least one question that is either open-ended or allows for a very wide range of responses - typically a question about the "most important issue" facing the country.
+In general, I'd be more persuaded if proponents of this argument could actually point to an example of an insight gleaned from a focus group that wasn't evident from existing surveys.
+
+2. They tell us things that couldn't be conveyed via a survey, even if pollsters knew what to ask
+
+Presumably this is because focus groups like to ask people things like: what does politician X like to do on a saturday night? 
+There is really no evidence to think these responses have any informative value beyond (i) well-known stereotypes of politicians as portrayed in the media; (ii) basic perceptions of competence/warmth, in line with the social psychology model of social cognition.
+
+Or: perhaps they tell us something about the intensity of opinion? e.g. how enthused the voters are? Maybe, but again we have a lot of survey questions for this.
+
+3. It's better to see how voters think and discuss politics in a group, since that's closer to how it is in real life.
+
+It's true that politics is a social process. But just putting people in a group of 6-8 strangers does not automatically increase external validity! For one thing, most people only discuss politics with close friends, family, and coworkers, who are likely homogeneous on many dimension - whereas focus groups are, usually by construction, hetereogeneous. Secondly, discussing politics with your mates in the pub is probably quite different from being paid to particiate in a focus group when you know that your responses are being recorded.
+
+It's good for us to approximate real-world conditions. But to do that, we need to think carefully about what those conditions are, and then we need to explicitly model them in a reduced form setting!
+
+I think it's time to be honest: focus groups are not really about understanding voters. At least not the way that most UK based pollsters and analysts use them. Focus groups are about producing amusing soundbites that can then be quoted in a follow up piece.
+
+
+
+
+
 "I've voted Labour all my life, but won't vote for Corbyn"
 
 @himmelweit1978memory show that voters are not very accurate in recalling their vote at past elections
 
-![](/post/2020-01-19-focus-group_files/hp_memory.gif)
-
-![](/post/2020-01-19-focus-group_files/hp_runningtally.gif)
 
 
 ### Proofiness

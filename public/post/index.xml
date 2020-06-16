@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Statues, in two dimensions</title>
+      <link>/post/statues-2d/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statues-2d/</guid>
+      <description>Statues are, obviously, three dimensional. But political scientists have long understood the politics of statues in two dimensions.
+In fact, if you’ve ever seen the “political compass” meme, you’re probably already familiar with this way of dividing up the political space!
+  #slide-window { position: relative; width: 500px; height: 500px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 500px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.</description>
+    </item>
+    
+    <item>
+      <title>kaufman</title>
+      <link>/post/kaufman/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/kaufman/</guid>
+      <description>{{&amp;lt; tweet-single 1234089084483751936 &amp;gt;}} {{&amp;lt; tweet-single 1234089087520382977 &amp;gt;}} {{&amp;lt; tweet-single 1234089090276089857 &amp;gt;}} {{&amp;lt; tweet-single 1234089093212069888 &amp;gt;}} {{&amp;lt; tweet-single 1234089095820988416 &amp;gt;}} {{&amp;lt; tweet-single 1234089098119438336 &amp;gt;}} {{&amp;lt; tweet-single 1234089101768450052 &amp;gt;}} {{&amp;lt; tweet-single 1234089104155009030 &amp;gt;}} {{&amp;lt; tweet-single 1234089106554093568 &amp;gt;}} {{&amp;lt; tweet-single 1234089108726829056 &amp;gt;}} {{&amp;lt; tweet-single 1234089111457292288 &amp;gt;}} {{&amp;lt; tweet-single 1234089114019954689 &amp;gt;}} {{&amp;lt; tweet-single 1234089116238798851 &amp;gt;}}</description>
+    </item>
+    
+    <item>
+      <title>Remember, remember</title>
+      <link>/post/info/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/info/</guid>
+      <description>Political scientists have often wondered how to reconcile two basic facts:
+Many voters struggle to recall basic information, like the names of prominent politicians or their most well-known policy positions
+ Many voters manage to vote “correctly” - that is, they vote for the candidate that most closely aligns with their stated preferences
+  How do they do it?
+There are two basic models of how voters process information: memory-based processing and the online tally.</description>
+    </item>
     
     <item>
       <title>Hokus focus (group)</title>
@@ -18,10 +51,8 @@
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/focus-group/</guid>
-      <description>“I’ve voted Labour all my life, but won’t vote for Corbyn”
-@himmelweit1978memory show that voters are not very accurate in recalling their vote at past elections
-Proofiness Let’s start with a more basic question: if we wanted to show that campaign slogans affect election results, what kind of evidence would we need?
-One answer - suggested by many commentators - is to ask voters why they are voting the way they are.</description>
+      <description>Arguments in favour of the usefulness of focus groups:
+They tell us things that pollsters might miss  I’ve always been puzzled by this argument. Most standard political surveys include at least one question that is either open-ended or allows for a very wide range of responses - typically a question about the “most important issue” facing the country. In general, I’d be more persuaded if proponents of this argument could actually point to an example of an insight gleaned from a focus group that wasn’t evident from existing surveys.</description>
     </item>
     
     <item>
@@ -63,7 +94,7 @@ Even prominent Labour figures like John McDonnell said that the slogan had “su
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
   </channel>

@@ -9,7 +9,7 @@ tags:
   - Campaigns
   - Media
   - Public opinion
-draft: false
+draft: true
 description: Did "Get Brexit Done" help the Tories win in 2019?
 bibliography: "b.bib"
 link-citations: true
@@ -29,7 +29,7 @@ Even prominent Labour figures like John McDonnell said that the slogan had "[suc
 
 And, of course, behind every good slogun is a mad slogun-slinger.
 
-Enter Dominic Cummings (Vote Leave campaign chief and now advisor to Boris Johnson), the [evil Svengali](https://www.mirror.co.uk/news/politics/dominic-cummings-evil-svengali-behind-19522317), [master of the dark arts](https://www.theguardian.com/politics/2019/jul/26/dominic-cummings-a-career-psychopath-in-downing-street), or (my personal favourite) the Demon Headmaster?^[For the uninitiated: watch [this](https://www.youtube.com/watch?v=4dQyPSJYZxk), but don't look into his eyes!]
+Enter Dominic Cummings, Vote Leave campaign chief and now advisor to Boris Johnson — a.k.a. the [evil Svengali](https://www.mirror.co.uk/news/politics/dominic-cummings-evil-svengali-behind-19522317), [master of the dark arts](https://www.theguardian.com/politics/2019/jul/26/dominic-cummings-a-career-psychopath-in-downing-street), or (my personal favourite) the Demon Headmaster?^[For the uninitiated: watch [this](https://www.youtube.com/watch?v=4dQyPSJYZxk), but don't look into his eyes!]
 
 
 ![](/post/2020-01-09-slogan_files/cummings1.jpeg)
@@ -46,24 +46,36 @@ Do campaign slogans really have the power to change minds?
 
 #### 1. Fundamentals
 
-One big reason for being skeptical about campaign effects is that we can do a pretty big job at predicting election results just using information from _before the campaign starts_. 
+One big reason for being skeptical about campaign effects is that we can do a pretty good job at predicting election results just using information from _before the campaign starts_. 
 
-Typically the predictors we use are "fundamental" factors like the state of the economy and the government's approval rating in the polls, measured before the formal campaign period begins. 
+What kind of information? Well, one obvious choice is polling data. That gives us a snapshot of public opinion right before the campaign period. As you would expect, support for the incumbent party 3 months before election day is a pretty good predictor of the incumbent party's vote share on election day.
 
-Even now, with historic levels of voter volatility and 
-when voters are less attached to parties and campaigns are using data-driven targeting strategies, fundamental factors do as good a job at predicting election results now as they did 50 years ago. [@nadeau2019election]
+But we can do even better if we include a variable that captures the state of the economy as well. Why? Because voters hold incumbent governments accountable for economic conditions (this is what political scientists call [economic voting](https://en.wikipedia.org/wiki/Economic_voting)) and because the state of the economy is not fully "priced in" before the campaign starts.
+
+The reason for this is simple: voters are [rationally ignorant](https://en.wikipedia.org/wiki/Rational_ignorance). For most of us, it's just not worth the time and effort to constantly gather information on how the government is performing. 
+
+But as we get closer to election day, the costs of acquiring this information tend to go down (because it's all over the news) and the benefits of acquiring this information tend to go up (because it is increasingly relevant to your voting decision).
+
+
+So, for example, if we look at data on Google searches for some obvious keywords, there are clear spikes around general elections:
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2051_RC11/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"conservative","geo":"GB","time":"2004-01-01 2020-02-25"},{"keyword":"labour","geo":"GB","time":"2004-01-01 2020-02-25"},{"keyword":"election","geo":"GB","time":"2004-01-01 2020-02-25"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=GB&q=conservative,labour,election","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+So, if we can make a good guess about election results before the campaign starts, it doesn't seem like there's much wiggle room for campaign strategists like Dominic Cummings to work their magic. 
+
+What's really interesting, though, is that these "fundamental models" are still as good at predicting election results today as they were 50 years ago -- despite the fact that voter volaility has risen and campaigns are (so they tell us!) becoming more sophisticated. [@nadeau2019election]
 
 <img src="/images/residuals.png" alt="Figure 1 from Nadeau et al. (2019). This graph displays the absolute unstandardized residuals for the incumbent vote model in Australia, Canada, Denmark, Germany, the UK and the USA (1955–2017)." width="80%" />
 
 
 <details>
   <summary>What does this chart show?</summary>
- <p> This chart shows the size of the prediction error from a simple model based on "fundamentals" (support for incumbent in the polls and GDP growth, both measured 3 months before the election) to predict election results. The "error" is the difference between the incumbent vote share predicted by the model and the actual incumbent vote share in that election. The higher the dot, the larger the prediction error. Most of the errors are under 5 percentage points, though there are a few outliers corresponding to elections in which the incumbent party suffered an historic landslide defeat. The horizontal line is a slightly-fancier version of a moving average. It shows that the size of these prediction errors hasn't changed over time: the fundamental model is as good at predicting elections now as it was 60 years ago! </p>
+ <p> This chart shows the size of the prediction error from a simple model based on "fundamentals" (support for incumbent in the polls and GDP growth, both measured 3 months before the election) to predict election results. The "error" is the difference between the incumbent vote share predicted by the model and the actual incumbent vote share in that election. The higher the dot, the larger the prediction error. Most of the errors are under 5 percentage points, though there are a few outliers corresponding to elections in which the incumbent party suffered an historic landslide defeat. The horizontal line is a slightly-fancier version of a moving average. It shows that the size of these prediction errors hasn't changed over time: the fundamental model is as good at predicting elections now as it was in the 1950's! </p>
 </details> 
 
 #### 2. Causal evidence
 
-Political scientists have also spent a long time trying to directly estimate the causal effect of campaign contact on voter persuasion. 
+Another way of exploring the effect of political campaigns is to try to estimate it directly.
 
 Often, this means conducting a field experiment, where the researcher partners with a campaign and randomizes some aspect of the campaign outreach.
 
@@ -77,15 +89,40 @@ There are many existing studies that use real-world experiments to estimate the 
 
 Rather than focus on any one particular study, what we really want to do is to somehow _aggregate_ all of the existing evidence.
 
-And luckily for us, political scientists [Josh Kalla](https://twitter.com/j_kalla) and [David Broockman](https://twitter.com/dbroockman) have done just that! They conducted a _meta-analysis_, aggregating evidence from 40 existing studies that estimated the causal effect of campaign contact (mail, phone calls, TV, online ads, canvassing) on voter persuasion. [@kalla2018minimal]
+And luckily for us, political scientists [Josh Kalla](https://twitter.com/j_kalla) and [David Broockman](https://twitter.com/dbroockman) have done just that! They conducted a [_meta-analysis_](https://www.cambridge.org/core/journals/american-political-science-review/article/minimal-persuasive-effects-of-campaign-contact-in-general-elections-evidence-from-49-field-experiments/753665A313C4AB433DBF7110299B7433), aggregating evidence from 40 existing studies that estimated the causal effect of campaign contact (mail, phone calls, TV, online ads, canvassing) on voter persuasion. [@kalla2018minimal]
 
 Here's what they found:
 
 >Together, these studies suggest that the most optimistic estimate that could be warranted from the literature is that campaign contact persuades about 1 in 175 voters, but that our best guess is that it persuades about 1 in 800 voters, substantively zero.
 
-That's right. Based on all of the existing evidence, our _best guess_ of the effect of campaign contact during general elections is **zero**.
+That's right. Based on all of the existing evidence, our _best guess_ of the effect of campaign contact during general elections is **zero**. 
 
-But... Kalla & Broockman didn't stop there. Next, they partnered with an independent campaign group and did *a bunch more experiments*! 
+The idea that campaigns are not effective at persuading voters shouldn't actually be that surprising to us, for one simple reason: partisanship!
+
+Identifying with a party changes the way we see the world. Arguments that fit with our partisan orientation seem more convincing, and we tend to seek out evidence that fits with our pre-existing views. 
+
+So, while campaign contact isn't very effective at persuading voters in a general election, it *can* have persuasive effects during primary elections and other non-partisan elections (e.g. some judicial elections). 
+
+And campaign contact is certainly effective if your goal is *mobilization* rather than persuasion: meta-analyses of GOTV campaigns consistently suggest they can increase turnout by several percentage points. [@green2019get]
+
+Kalla & Broockman do find some preliminary evidence about a special case where campaign contact _might_ be effective in a general election: if the opponent holds an unusually unpopular position AND the voters don't know that! The example they describe is a Senator from Oregon who wasn't consistently pro-choice on abortion. 
+
+While the "Get Brexit Done" slogan certainly created a contrast between the two major parties' positions on Brexit, 
+
+While the "Get Brexit Done" slogan obviously highlights a difference in clarity between to Tory and Labour positions on Brexit, it was hardly revealing a big secret. And Labour
+
+
+However... all of the experiments in the Kalla & Broockman meta-analysis are from the US. What if British voters are easier to persuade than American voters? 
+
+
+
+
+
+@foos2017role PCC. phone call boosts turnout, and if it uses partisan cues it boosts turnout even more among in-partisans. BUT: PCC super low salience. Control group turnout = 13%! Another issue:  
+
+
+
+
 
 
 ### Secret sauce
@@ -104,7 +141,7 @@ However, maybe we can test this directly. Suppose that the Get Brexit Done sloga
 
 2. voters feeling relieved at the prospect of brexit being over
 
-3. increased clarity around the Tory position on breixt?
+3. increased clarity around the Tory position on Brexit?
 
 ### Targeting
 

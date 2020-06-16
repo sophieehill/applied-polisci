@@ -1,0 +1,120 @@
+---
+title: Statues, in two dimensions
+author: Sophie Hill
+date: '2020-06-11'
+slug: statues-2d
+categories:
+  - Puzzle
+tags:
+  - Public opinion
+  - UK
+  - US
+draft: yes
+bibliography: "b.bib"
+link-citations: true
+csl: international-journal-of-simulation-modelling.csl
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(tidy = FALSE, echo = FALSE)
+```
+
+Statues are, obviously, three dimensional. But political scientists have long understood the *politics* of statues in two dimensions. 
+
+In fact, if you've ever seen the "political compass" meme, you're probably already familiar with this way of dividing up the political space!
+
+``` {r} 
+blogdown::shortcode("gallery-slider", dir="/images/compass/", width="500px", height="500px")
+```
+
+
+In short, the horizontal axis indicates position on economic issues (state intervention in the economy; redistribution) and the vertical axis indicates position on cultural (or "values") issues. 
+
+Political scientists have observed for many decades that protest politics seems to be dominated by the bottom-left quadrant: the left-libertarians. 
+
+It's worth pointing out that this is still true, despite the right of the populist and radical right across Europe!
+
+For example, @hutter2019challenges created a huge dataset of nearly 20,000 protest events in 6 European countries from 1975-2011, based on newspaper reports. They coded the protest events based on the issue (environment; cultural liberalism; immigration; European integration) and the position being expressed.
+
+The first two panels of this figure (Fig 2 in the paper) show that immigration and the EU have become increasingly salient, both in terms of the number of protest events and the number of participants. 
+
+However, the left-libertarian dominance remains, because the third panel shows that on average, even the immigration protests are still mostly *pro* immigration!
+
+![Figure 2 from @hutter2019challenges](/post/2020-06-11-much-ado_files/hutter_fig.png)
+
+(Here, the "pro" positions are coded as +1 while the "anti" positions are coded as -1. So when the average is positive, that means the protests on that issue lean towards the "pro" side.)
+
+We can certainly see a downward trend, indicating that immigration/integration protests have shifted towards the "anti" position over time. And clearly protests on these issues are much more evenly split that protests on the environment and cultural liberalism (e.g., LGBT rights), which are overwhelmingly dominated by the "pro" position.
+
+Still, it's a remarkable result given the dramatic successes of anti-immigration parties at the polls.
+
+So... why do the left-libertarians tend to dominate the sphere of "protest politics", even when they are struggling in the electoral sphere?
+
+## Sore losers?
+
+Perhaps this isn't so much of a contradiction after all. Maybe left-wingers are more inclined to take to the streets precisely *because* they aren't having so much success at the ballot box?
+
+It's an appealing logic. But the protest sphere has been dominated by left-wingers long before the electoral decline of mainstream left parties.
+
+In fact, @torcal2016word show that while left-wingers are *more* likely to protest under a right-wing (vs left-wing) government, they are still the most likely group to be protesting under a left-wing government!
+
+![](/post/2020-06-11-much-ado_files/fig_torcal.png)
+
+## Demographics
+
+Another explanation that we can quickly dispense with is the claim that left-libertarians tend to protest more simply because they have the luxury of being highly-educated and mostly well-off.
+
+Many studies have documented that those with libertarian values are more inclined to take part in protests than those with authoritarian values, even controlling for a range of individual demographics, such as age, gender, and educational attainment. 
+
+(That is: even if we just compare individuals of the same age, gender, and education, those who are more libertarian still tend to protest more.)
+
+## Protest values and valuing protest
+
+Perhaps libertarians dominate the protest sphere simply because libertarian values are more conducive to protest politics than authoritarian values?
+
+Libertarians are more comfortable than authoritarians with types of political action that challenge the status quo. 
+
+Indeed, many political scientists argued that these value orientations can help us to understand why the populist right -- which pits "the people" against a corrupt political system -- tends to use highly-institutionalized channels (elections and referenda) instead of protest politics to acheive its goals.
+
+> Rebels on the right tend to have authoritarian and materialist values and prefer (orderly) conventional political action over (disorderly) protest politics, whereas rebels on the left tend to share libertarian and postmaterialist values, which predispose them for unconventional protest politics. For challengers on both the left and the right, the "medium is the message"; that is, the choice of the channel in which they express themselves is at the same time an expression of their underlying message. [@hutter2013movements]
+
+However, more recent scholarship has questioned this left/right binary. For example, @pirro2020populism show that the clearest divide in non-electoral participation (NEP) is between the non-populist right and everybody else!
+
+![Figure 1 in @pirro2020populism](/post/2020-06-11-much-ado_files/fig_pirro.png)
+
+(The authors measure "non-electoral participation" by creating a scale that reflects how many actions like contacting a politician, signing a petition, demonstrating, the respondent has done.)
+
+Having libertarian (vs authoritarian) values still makes someone more likely to take part in protests, and other forms of non-electoral participation.However, right-wing populist parties may be able to overcome the values "disadvantage" of their supporters in other ways.
+
+For example, @marx2018anti shows that populist parties help to increase the political efficacy of low-income citizens, by increasing political attention and simplifying the political terrain. Indeed, they find that low-income citizens are more likely to engage in non-electoral participation when populist parties have had electoral success.
+
+
+## 
+
+Another possible explanation is given by @flanagan2003new, who suggest that while libertarians are able to effectively mobilize around specific issues that directly affect particular groups, authoritarians instead face an overwhelming barrage of symbolic attacks on the status quo. 
+
+
+> Most of these new left issues represent the intense interests of small minorities. Because they intensely desire new rights, which will directly affect their condition or chosen lifestyle, they are highly motivated to become politically involved. Conversely, authoritarians are not generally personally invested in any one of these issues. Rather they see the world around them changing in ways that threaten their core beliefs, but these threats take the form of multiple attacks, multiple brushfires. Because they cannot become involved in all of them at once, they often complain but do nothing. [@flanagan2003new, p.260]
+
+I'm not entirely sure about this argument. It's true that many "minority rights" movements -- e.g. LGBT rights -- have been led by individuals from minority groups who have a direct stake in the issues. But all successful social movements need to mobilize a broader coalition -- witness the multiracial crowds protesting following the death of George Floyd. 
+
+
+
+@schwartz2014basic
+
+## Right reputation
+
+
+
+
+![**Reactions to statue of slave trader Edward Colston getting chucked in the harbour, in 2D**](/post/2020-06-11-much-ado_files/compass.png)
+
+<details>
+  <summary>Photo credits</summary>
+ <p> clockwise from left: [Ro Ryxotic on Twitter](https://twitter.com/RoRyxotic/status/1269698079000846340); Unknown; [Madeleine on Twitter](https://twitter.com/Frenchd0gblues/status/1270050171162894337?s=20); [Ed Clowes on Twitter](https://twitter.com/EdClowes/status/1271783573868220416?s=20); Reuters; Ben Birchall/PA </p>
+</details> 
+
+
+
+
+

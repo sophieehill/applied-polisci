@@ -1,0 +1,45 @@
+---
+title: Remember, remember
+author: Sophie Hill
+date: '2020-03-02'
+slug: info
+categories:
+  - Theory
+tags:
+  - Public opinion
+  - Political Psychology
+draft: yes
+description: How do voters process information?
+---
+
+Political scientists have often wondered how to reconcile two basic facts:
+
+1. Many voters struggle to recall basic information, like the names of prominent politicians or their most well-known policy positions
+
+2. Many voters manage to vote "correctly" - that is, they vote for the candidate that most closely aligns with their stated preferences
+
+How do they do it? 
+
+
+There are two basic models of how voters process information: memory-based processing and the online tally.
+
+Fortunately, these concepts are actually pretty easy to understand, with the help of a couple of Harry Potter gifs.
+
+Memory-based processing is the idea that when voters need to make a decision - say, at the ballot box - they dig deep into their memory to retrieve the relevant considerations.
+
+Kind of like dunking your head into a Pensive.
+
+
+![](/post/2020-01-19-focus-group_files/hp_memory.gif)
+
+Now the memory-based model doesn't say that you retrieve _all_ relevant considerations from memory before making a judgement. For example, Zaller argued that voters sample from considerations that are "top of mind" - which might be heavily shaped by recency bias. 
+
+But the crucial point is that there are specific considerations being recalled here.
+
+In contrast, the "online tally" model says that when voters receive information, they derive some positive or negative affect from it, then they update a running tally that keeps track of how they feel towards that politician or party. The crucial point there is that the information that triggered this process is discarded. 
+
+So when the voter needs to make a judgement, they only need to look at the running tally. They don't need to recall any specific considerations that led to this result - in fact, they probably don't remember them anymore.
+
+Kind of like when the teachers at Hogwarts award points to different houses. We don't keep track of whose leviosAH earned Gryffindor 10 points, we just know that Gryffindor is now has the most sparkly gemstones in its jar.
+
+![](/post/2020-01-19-focus-group_files/hp_runningtally.gif)

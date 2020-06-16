@@ -9,7 +9,7 @@ tags:
   - Campaigns
   - Media
   - Public opinion
-draft: false
+draft: true
 description: Did "Get Brexit Done" help the Tories win in 2019?
 bibliography: "b.bib"
 link-citations: true
@@ -18,6 +18,7 @@ output:
   blogdown::html_page
 ---
 
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
 <p>“Get Brexit Done.” Those were <a href="https://time.com/5749478/get-brexit-done-slogan-uk-election/">“the three words that helped Boris Johnson win”</a> Britain’s 2019 election, according to Time Magazine.</p>
@@ -25,7 +26,7 @@ output:
 <p>Not to be outdone, a Spectactor columnist wrote that it was a “<a href="https://blogs.spectator.co.uk/2019/09/the-genius-of-boriss-brexit-slogan/">work of political genius</a>”, with “power, more power than us smug, clever types who obsess about details and facts naturally recognise”.</p>
 <p>Even prominent Labour figures like John McDonnell said that the slogan had “<a href="https://labourlist.org/2019/12/i-dont-think-our-narrative-was-good-enough-says-mcdonnell/">successfully resonated</a>” with voters.</p>
 <p>And, of course, behind every good slogun is a mad slogun-slinger.</p>
-<p>Enter Dominic Cummings (Vote Leave campaign chief and now advisor to Boris Johnson), the <a href="https://www.mirror.co.uk/news/politics/dominic-cummings-evil-svengali-behind-19522317">evil Svengali</a>, <a href="https://www.theguardian.com/politics/2019/jul/26/dominic-cummings-a-career-psychopath-in-downing-street">master of the dark arts</a>, or (my personal favourite) the Demon Headmaster?<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<p>Enter Dominic Cummings, Vote Leave campaign chief and now advisor to Boris Johnson — a.k.a. the <a href="https://www.mirror.co.uk/news/politics/dominic-cummings-evil-svengali-behind-19522317">evil Svengali</a>, <a href="https://www.theguardian.com/politics/2019/jul/26/dominic-cummings-a-career-psychopath-in-downing-street">master of the dark arts</a>, or (my personal favourite) the Demon Headmaster?<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
 <p><img src="/post/2020-01-09-slogan_files/cummings1.jpeg" /></p>
 <p>So… is this narrative true?</p>
 <p>Did the “Get Brexit Done” slogan actually affect the election result?</p>
@@ -34,34 +35,48 @@ output:
 <h3>Reasons for skepticism</h3>
 <div id="fundamentals" class="section level4">
 <h4>1. Fundamentals</h4>
-<p>One big reason for being skeptical about campaign effects is that we can do a pretty big job at predicting election results just using information from <em>before the campaign starts</em>.</p>
-<p>Typically the predictors we use are “fundamental” factors like the state of the economy and the government’s approval rating in the polls, measured before the formal campaign period begins.</p>
-<p>Even now, with historic levels of voter volatility and
-when voters are less attached to parties and campaigns are using data-driven targeting strategies, fundamental factors do as good a job at predicting election results now as they did 50 years ago. <span class="citation">[<a href="#ref-nadeau2019election">1</a>]</span></p>
+<p>One big reason for being skeptical about campaign effects is that we can do a pretty good job at predicting election results just using information from <em>before the campaign starts</em>.</p>
+<p>What kind of information? Well, one obvious choice is polling data. That gives us a snapshot of public opinion right before the campaign period. As you would expect, support for the incumbent party 3 months before election day is a pretty good predictor of the incumbent party’s vote share on election day.</p>
+<p>But we can do even better if we include a variable that captures the state of the economy as well. Why? Because voters hold incumbent governments accountable for economic conditions (this is what political scientists call <a href="https://en.wikipedia.org/wiki/Economic_voting">economic voting</a>) and because the state of the economy is not fully “priced in” before the campaign starts.</p>
+<p>The reason for this is simple: voters are <a href="https://en.wikipedia.org/wiki/Rational_ignorance">rationally ignorant</a>. For most of us, it’s just not worth the time and effort to constantly gather information on how the government is performing.</p>
+<p>But as we get closer to election day, the costs of acquiring this information tend to go down (because it’s all over the news) and the benefits of acquiring this information tend to go up (because it is increasingly relevant to your voting decision).</p>
+<p>So, for example, if we look at data on Google searches for some obvious keywords, there are clear spikes around general elections:</p>
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2051_RC11/embed_loader.js"></script>
+<script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"conservative","geo":"GB","time":"2004-01-01 2020-02-25"},{"keyword":"labour","geo":"GB","time":"2004-01-01 2020-02-25"},{"keyword":"election","geo":"GB","time":"2004-01-01 2020-02-25"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=GB&q=conservative,labour,election","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+<p>So, if we can make a good guess about election results before the campaign starts, it doesn’t seem like there’s much wiggle room for campaign strategists like Dominic Cummings to work their magic.</p>
+<p>What’s really interesting, though, is that these “fundamental models” are still as good at predicting election results today as they were 50 years ago – despite the fact that voter volaility has risen and campaigns are (so they tell us!) becoming more sophisticated. <span class="citation">[<a href="#ref-nadeau2019election" role="doc-biblioref">1</a>]</span></p>
 <p><img src="/images/residuals.png" alt="Figure 1 from Nadeau et al. (2019). This graph displays the absolute unstandardized residuals for the incumbent vote model in Australia, Canada, Denmark, Germany, the UK and the USA (1955–2017)." width="80%" /></p>
 <details>
 <summary>What does this chart show?</summary>
 <p>
-This chart shows the size of the prediction error from a simple model based on “fundamentals” (support for incumbent in the polls and GDP growth, both measured 3 months before the election) to predict election results. The “error” is the difference between the incumbent vote share predicted by the model and the actual incumbent vote share in that election. The higher the dot, the larger the prediction error. Most of the errors are under 5 percentage points, though there are a few outliers corresponding to elections in which the incumbent party suffered an historic landslide defeat. The horizontal line is a slightly-fancier version of a moving average. It shows that the size of these prediction errors hasn’t changed over time: the fundamental model is as good at predicting elections now as it was 60 years ago!
+This chart shows the size of the prediction error from a simple model based on “fundamentals” (support for incumbent in the polls and GDP growth, both measured 3 months before the election) to predict election results. The “error” is the difference between the incumbent vote share predicted by the model and the actual incumbent vote share in that election. The higher the dot, the larger the prediction error. Most of the errors are under 5 percentage points, though there are a few outliers corresponding to elections in which the incumbent party suffered an historic landslide defeat. The horizontal line is a slightly-fancier version of a moving average. It shows that the size of these prediction errors hasn’t changed over time: the fundamental model is as good at predicting elections now as it was in the 1950’s!
 </p>
 </details>
 </div>
 <div id="causal-evidence" class="section level4">
 <h4>2. Causal evidence</h4>
-<p>Political scientists have also spent a long time trying to directly estimate the causal effect of campaign contact on voter persuasion.</p>
+<p>Another way of exploring the effect of political campaigns is to try to estimate it directly.</p>
 <p>Often, this means conducting a field experiment, where the researcher partners with a campaign and randomizes some aspect of the campaign outreach.</p>
 <p><img src="/images/random.gif" alt="Animated gif from the TV show Summer Heights High, in which a character says 'I am so random, I can't believe I just did that...'" width="50%" /></p>
 <p>For example, imagine that you have a list of all the households in a certain district, and for each one you flip a coin to determine whether or not that household receives a campaign leaflet. Then you can conduct a follow-up survey of all households in that district and compare the “treatment” and “control” groups to isolate the effect of the leaflets on support for a given candidate or issue.</p>
 <p>We can also try to estimate a causal effect even when there wasn’t a randomized controlled experiment but, well, that’s a subject for another post…</p>
 <p>There are many existing studies that use real-world experiments to estimate the effect of campaign contact on voter behaviour. (Though almost all are from the US context, making it harder to generalize these findings to other countries.)</p>
 <p>Rather than focus on any one particular study, what we really want to do is to somehow <em>aggregate</em> all of the existing evidence.</p>
-<p>And luckily for us, political scientists <a href="https://twitter.com/j_kalla">Josh Kalla</a> and <a href="https://twitter.com/dbroockman">David Broockman</a> have done just that! They conducted a <em>meta-analysis</em>, aggregating evidence from 40 existing studies that estimated the causal effect of campaign contact (mail, phone calls, TV, online ads, canvassing) on voter persuasion. <span class="citation">[<a href="#ref-kalla2018minimal">2</a>]</span></p>
+<p>And luckily for us, political scientists <a href="https://twitter.com/j_kalla">Josh Kalla</a> and <a href="https://twitter.com/dbroockman">David Broockman</a> have done just that! They conducted a <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/minimal-persuasive-effects-of-campaign-contact-in-general-elections-evidence-from-49-field-experiments/753665A313C4AB433DBF7110299B7433"><em>meta-analysis</em></a>, aggregating evidence from 40 existing studies that estimated the causal effect of campaign contact (mail, phone calls, TV, online ads, canvassing) on voter persuasion. <span class="citation">[<a href="#ref-kalla2018minimal" role="doc-biblioref">2</a>]</span></p>
 <p>Here’s what they found:</p>
 <blockquote>
 <p>Together, these studies suggest that the most optimistic estimate that could be warranted from the literature is that campaign contact persuades about 1 in 175 voters, but that our best guess is that it persuades about 1 in 800 voters, substantively zero.</p>
 </blockquote>
 <p>That’s right. Based on all of the existing evidence, our <em>best guess</em> of the effect of campaign contact during general elections is <strong>zero</strong>.</p>
-<p>But… Kalla &amp; Broockman didn’t stop there. Next, they partnered with an independent campaign group and did <em>a bunch more experiments</em>!</p>
+<p>The idea that campaigns are not effective at persuading voters shouldn’t actually be that surprising to us, for one simple reason: partisanship!</p>
+<p>Identifying with a party changes the way we see the world. Arguments that fit with our partisan orientation seem more convincing, and we tend to seek out evidence that fits with our pre-existing views.</p>
+<p>So, while campaign contact isn’t very effective at persuading voters in a general election, it <em>can</em> have persuasive effects during primary elections and other non-partisan elections (e.g. some judicial elections).</p>
+<p>And campaign contact is certainly effective if your goal is <em>mobilization</em> rather than persuasion: meta-analyses of GOTV campaigns consistently suggest they can increase turnout by several percentage points. <span class="citation">[<span class="citeproc-not-found" data-reference-id="green2019get"><strong>???</strong></span>]</span></p>
+<p>Kalla &amp; Broockman do find some preliminary evidence about a special case where campaign contact <em>might</em> be effective in a general election: if the opponent holds an unusually unpopular position AND the voters don’t know that! The example they describe is a Senator from Oregon who wasn’t consistently pro-choice on abortion.</p>
+<p>While the “Get Brexit Done” slogan certainly created a contrast between the two major parties’ positions on Brexit,</p>
+<p>While the “Get Brexit Done” slogan obviously highlights a difference in clarity between to Tory and Labour positions on Brexit, it was hardly revealing a big secret. And Labour</p>
+<p>However… all of the experiments in the Kalla &amp; Broockman meta-analysis are from the US. What if British voters are easier to persuade than American voters?</p>
+<p><strong>???</strong> PCC. phone call boosts turnout, and if it uses partisan cues it boosts turnout even more among in-partisans. BUT: PCC super low salience. Control group turnout = 13%! Another issue:</p>
 </div>
 </div>
 <div id="secret-sauce" class="section level3">
@@ -74,7 +89,7 @@ This chart shows the size of the prediction error from a simple model based on �
 <ol style="list-style-type: decimal">
 <li><p>increased salience of Brexit during the campaign</p></li>
 <li><p>voters feeling relieved at the prospect of brexit being over</p></li>
-<li><p>increased clarity around the Tory position on breixt?</p></li>
+<li><p>increased clarity around the Tory position on Brexit?</p></li>
 </ol>
 </div>
 <div id="targeting" class="section level3">
@@ -130,6 +145,6 @@ This chart shows the size of the prediction error from a simple model based on �
 <div class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>For the uninitiated: watch <a href="https://www.youtube.com/watch?v=4dQyPSJYZxk">this</a>, but don’t look into his eyes!<a href="#fnref1" class="footnote-back">↩</a></p></li>
+<li id="fn1"><p>For the uninitiated: watch <a href="https://www.youtube.com/watch?v=4dQyPSJYZxk">this</a>, but don’t look into his eyes!<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
