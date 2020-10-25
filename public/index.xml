@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applied Poli Sci</title>
-    <link>https://www.applied-polisci.com/</link>
+    <link>/</link>
     <description>Recent content on Applied Poli Sci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     
-	<atom:link href="https://www.applied-polisci.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.applied-polisci.com/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>https://www.applied-polisci.com/about/</guid>
+      <guid>/about/</guid>
       <description>My name is Sophie Hill. I&amp;rsquo;m a PhD student in political science at Harvard.
 The aim of this blog is to make political science research accessible and (hopefully!) relevant to topical debates about elections, policy, and public opinion.</description>
     </item>
