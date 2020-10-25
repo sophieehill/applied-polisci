@@ -1,0 +1,80 @@
+---
+title: Expecto transphobum!
+author: Sophie Hill
+date: '2020-06-22'
+slug: expecto-transphobum
+categories:
+  - Puzzle
+tags:
+  - Political Psychology
+  - LGBT
+draft: yes
+description: What happened to J.K. Rowling?
+bibliography: "b.bib"
+link-citations: true
+csl: american-journal-of-political-science.csl
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(tidy = FALSE, echo = FALSE)
+```
+
+In the Harry Potter books, when a witch or wizard wants to cast a Patronus Charm, they have to fixate on a particularly happy memory [^1]. If successful, they can produce a corporeal Patronus -- an animal formed of dazzling, blinding light -- that can drive away Dementors.
+
+[^1]: OK, Gen-Z, you can [roast me now](https://www.buzzfeed.com/daniellaemanuel/gen-z-dragging-millennials-tiktok).
+
+![](/post/2020-06-22-expecto-transphobum_files/jk_hp_gif.gif)
+
+What about us mere muggles? Well, we do things a little differently. Often, when we need a defensive boost, we tend to fixate on *bad* memories -- instances where we were wronged or victimized. And though this method may be ineffective against Dementors, it is very handy for fighting off threats to our *moral self-image*.
+
+Which brings me to J.K. Rowling's 3,600 word blog post detailing "[Her Reasons for Speaking out on Sex and Gender Issues](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)". While some have dubbed it a "[transphobic manifesto](https://www.nbcnews.com/feature/nbc-out/j-k-rowling-doubles-down-what-some-critics-call-transphobic-n1229351)", we can also think of it as Rowling's very own muggle's Patronus.
+
+In the blog post, Rowling describes her own experiences of being sexually and physically assaulted -- experiences which, she claims, gave her a particular sense of "solidarity and kinship" with trans women:
+
+> If you could come inside my head and understand what I feel when I read about a trans woman dying at the hands of a violent man, you'd find solidarity and kinship. I have a visceral sense of the terror in which those trans women will have spent their last seconds on earth, because I too have known moments of blind fear when I realised that the only thing keeping me alive was the shaky self-restraint of my attacker.
+
+> Like every other domestic abuse and sexual assault survivor I know, I feel nothing but empathy and solidarity with trans women who've been abused by men.
+
+But despite these expressions of solidarity, Rowling ends up arguing that allowing trans people to access the bathrooms that match their gender identity constitutes a threat to cis women and girls.
+
+> So I want trans women to be safe. At the same time, I do not want to make natal girls and women less safe. When you throw open the doors of bathrooms and changing rooms to any man who believes or feels he's a woman -- and, as I've said, gender confirmation certificates may now be granted without any need for surgery or hormones -- then you open the door to any and all men who wish to come inside. That is the simple truth.
+
+Now, the point of this blog post is not to fact-check what Rowling says. But I would be remiss if I didn't mention the *overwhelming mountain of evidence that allowing trans folks to use the bathrooms that match their gender identity does not lead to an increase in bathroom sex crimes*.
+
+<details>
+
+<summary> Overwhelming mountain of evidence </summary>
+
+In 2014, [Media Matters reached out to government officials, law enforcement, and victim advocacy groups](https://www.mediamatters.org/sexual-harassment-sexual-assault/15-experts-debunk-right-wing-transgender-bathroom-myth) in a dozen U.S. states that had passed laws preventing discrimination in public accommodations based on gender identity. None of them were aware of any incidents of sexual assault related to the non-discrimination laws. They even reached out to [officials from 17 school districts](https://www.mediamatters.org/sexual-harassment-sexual-assault/17-school-districts-debunk-right-wing-lies-about-protections), covering 600,000 students, to ask whether laws protecting transgender students from discrimination had caused any incidents of "confusion, harassment, or inappropriate behavior". Again: *there were none*.
+
+Moreover, while Rowling is correct that it is *possible* to obtain a gender recognition certificate without undergoing surgery or taking hormones, such cases are extremely rare and individuals are required to explain why they have not done so (e.g. because they are medically unable). In any case, it is deeply misleading to suggest that this opens women's bathrooms to "any man who believes or feels he's a woman", since you are still required to prove that you have "lived full time in your acquired gender for at least two years" and have a diagnosis of gender dysphoria in order to [obtain a GRC](https://www.channel4.com/news/factcheck/factcheck-rowling-right-that-hormones-or-surgery-not-required-for-legal-gender-change).
+
+In contrast to the myth of the bathroom sex predator, the barriers that trans folks face when trying to access bathrooms are real and well-documented. Based on almost 28,000 participants, the [2015 U.S. Transgender Survey](http://www.ustranssurvey.org/) found that a majority of trans people (59%) said they have avoided using a public restroom in the past year because they were afraid of confrontations they might experience; one-third (32%) had limited the amount that they ate and drank to avoid using the restroom in the past year; about one-in-10 reported being denied access to a restroom (9%) or being verbally harassed (12%) when accessing a restroom. And that was in 2015 -- a year *before* anti-trans "bathroom bills" became the focus of a national debate in the United States.
+
+</details>
+
+Why is it that Rowling's experiences of discrimination and victimization seem to cause such contradictory impulses -- solidarity versus threat, understanding versus defensiveness?
+
+## Moral self-image
+
+We all have a basic desire to see ourselves as a good, moral person. This is one of the basic tenets of *self-affirmation theory*, developed by psychologist Claude Steele in the 1980s.
+
+On the other hand, sometimes we have incentives to behave in *immoral* ways. So, to keep things in check, we've developed a sophisticated system of *moral self-regulation*.
+
+![The points system behind *The Good Place*](/post/2020-06-22-expecto-transphobum_files/jk_goodplace.gif)
+
+This balancing act creates odd but predictable patterns in behavior: When you give someone an opportunity to demonstrate their "moral credentials" -- say, by being given the chance to disagree with a blatantly sexist statement -- they become more willing to say that they would favor a man for a stereotypically male job [@monin2001moral]. Interestingly, this licensing effect occurs even when participants are invited to express a politically incorrect opinion *to an audience that is unaware of their credentials*.
+
+There are also examples of the converse effect of "moral cleansing": for example, participants tend to contribute more generously to a public good if they have previously taken part in a task where they had the opportunity to cheat [@seccilmics2018experimental].
+
+# The moral status of groups
+
+We don't just keep score of our own moral image. We also want our in-groups to be seen as good and moral.
+
+So, hearing that our in-group is a unfairly privileged, or even openly oppressive, can feel very threatening.
+
+Not least because we don't have much control over how our fellow in-group members behave, which means that "moral cleansing" strategies are harder to pull off.
+
+## The muggle's Patronus
+
+## References

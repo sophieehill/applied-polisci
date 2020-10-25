@@ -2,107 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applied Poli Sci</title>
-    <link>/</link>
+    <link>https://www.applied-polisci.com/</link>
     <description>Recent content on Applied Poli Sci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.applied-polisci.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Statues, in two dimensions</title>
-      <link>/post/statues-2d/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/statues-2d/</guid>
-      <description>Statues are, obviously, three dimensional. But political scientists have long understood the politics of statues in two dimensions.
-In fact, if you’ve ever seen the “political compass” meme, you’re probably already familiar with this way of dividing up the political space!
-  #slide-window { position: relative; width: 500px; height: 500px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 500px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.</description>
-    </item>
-    
-    <item>
-      <title>kaufman</title>
-      <link>/post/kaufman/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/kaufman/</guid>
-      <description>{{&amp;lt; tweet-single 1234089084483751936 &amp;gt;}} {{&amp;lt; tweet-single 1234089087520382977 &amp;gt;}} {{&amp;lt; tweet-single 1234089090276089857 &amp;gt;}} {{&amp;lt; tweet-single 1234089093212069888 &amp;gt;}} {{&amp;lt; tweet-single 1234089095820988416 &amp;gt;}} {{&amp;lt; tweet-single 1234089098119438336 &amp;gt;}} {{&amp;lt; tweet-single 1234089101768450052 &amp;gt;}} {{&amp;lt; tweet-single 1234089104155009030 &amp;gt;}} {{&amp;lt; tweet-single 1234089106554093568 &amp;gt;}} {{&amp;lt; tweet-single 1234089108726829056 &amp;gt;}} {{&amp;lt; tweet-single 1234089111457292288 &amp;gt;}} {{&amp;lt; tweet-single 1234089114019954689 &amp;gt;}} {{&amp;lt; tweet-single 1234089116238798851 &amp;gt;}}</description>
-    </item>
-    
-    <item>
-      <title>Remember, remember</title>
-      <link>/post/info/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/info/</guid>
-      <description>Political scientists have often wondered how to reconcile two basic facts:
-Many voters struggle to recall basic information, like the names of prominent politicians or their most well-known policy positions
- Many voters manage to vote “correctly” - that is, they vote for the candidate that most closely aligns with their stated preferences
-  How do they do it?
-There are two basic models of how voters process information: memory-based processing and the online tally.</description>
-    </item>
-    
-    <item>
-      <title>Hokus focus (group)</title>
-      <link>/post/focus-group/</link>
-      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/focus-group/</guid>
-      <description>Arguments in favour of the usefulness of focus groups:
-They tell us things that pollsters might miss  I’ve always been puzzled by this argument. Most standard political surveys include at least one question that is either open-ended or allows for a very wide range of responses - typically a question about the “most important issue” facing the country. In general, I’d be more persuaded if proponents of this argument could actually point to an example of an insight gleaned from a focus group that wasn’t evident from existing surveys.</description>
-    </item>
-    
-    <item>
-      <title>Getting fit</title>
-      <link>/post/competence/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/competence/</guid>
-      <description>“Labour economic policies are popular, so why aren’t Labour?”
- As this analysis from YouGov suggests, Labour’s policy proposals were popular when taken one-by-one, but when voters step back and evaluate which party would do best on the economy overall, Labour is at a severe disadvantage.
-Voters were twice as likely to pick Boris Johnson (34%) over Jeremy Corbyn (16%), when asked who they trusted most to run the economy.</description>
-    </item>
-    
-    <item>
-      <title>Low yield investments</title>
-      <link>/post/low-yield/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/low-yield/</guid>
-      <description>!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}();  !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); voters punish incumbent governments for cuts to the welfare state - but only when this issue is prominent during the election campaign [1]
- !function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}(); [2] NHS by far best issue yield for Labour - see Table of valence issues - Labour most credible only on NHS and protecting pensions, former is higher priority…</description>
-    </item>
-    
-    <item>
-      <title>Slogun to the head</title>
-      <link>/post/slogan-2019/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/slogan-2019/</guid>
-      <description>“Get Brexit Done.” Those were “the three words that helped Boris Johnson win” Britain’s 2019 election, according to Time Magazine.
-The slogan was a “golden key” that unlocked a Conservative victory, says the Telegraph.
-Not to be outdone, a Spectactor columnist wrote that it was a “work of political genius”, with “power, more power than us smug, clever types who obsess about details and facts naturally recognise”.
-Even prominent Labour figures like John McDonnell said that the slogan had “successfully resonated” with voters.</description>
-    </item>
-    
-    <item>
-      <title>How can Labour recover? Recruitment, recruitment, recruitment.</title>
-      <link>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-can-labour-recover-recruitment-recruitment-recruitment/</guid>
-      <description>  </description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://www.applied-polisci.com/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://www.applied-polisci.com/about/</guid>
       <description>My name is Sophie Hill. I&amp;rsquo;m a PhD student in political science at Harvard.
 The aim of this blog is to make political science research accessible and (hopefully!) relevant to topical debates about elections, policy, and public opinion.</description>
     </item>

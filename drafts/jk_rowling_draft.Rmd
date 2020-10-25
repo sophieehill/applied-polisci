@@ -1,0 +1,275 @@
+---
+title: Expecto transphobum!
+author: Sophie Hill
+date: '2020-06-22'
+slug: expecto-transphobum
+categories:
+  - Puzzle
+tags:
+  - Political Psychology
+  - LGBT
+draft: yes
+description: What happened to J.K. Rowling?
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(tidy = FALSE, echo = FALSE)
+```
+
+Like many millenials, I've been watching J.K. Rowling's descent into obsessive anti-trans activism with a mixture of horror and satisfaction.
+
+*Horror* because, well, I grew up with Harry Potter. I used to queue up at midnight outside my local bookshop, smudged felt-tip scar on my forehead, waiting for the release of the next book. Which my parents would let me read for 1 hour, before it was hidden away to stop me staying up all night.
+
+(Zoomers, I accept your [roasting](https://www.buzzfeed.com/daniellaemanuel/gen-z-dragging-millennials-tiktok).)
+
+The *satisfaction* is more complicated. It's the feeling you get when the villain finally outs themselves, announcing their dastardly plan and reminding you, the audience, of all the warning signs along the way.
+
+<center>
+
+![**Unrelated image depicting the moment when Professor Quirrell unravels his turban to reveal Voldemort's face on the back of his head**](/post/2020-06-22-expecto-transphobum_files/jk_quirrell.gif)
+
+</center>
+
+Rowling's PR team used to engage in some fairly heroic (or, perhaps, ludicrous) attempts at damage control. Like in 2018, when Rowling "liked" a tweet describing trans women as "[men in dresses](https://www.pinknews.co.uk/2018/03/22/jk-rowling-reps-blame-middle-aged-moment-for-liking-tweet-calling-trans-women-men-in-dresses/)". 
+
+She didn't *mean* to like that tweet, her PR team insisted. It was just a "[middle aged moment](https://www.pinknews.co.uk/2018/03/22/jk-rowling-reps-blame-middle-aged-moment-for-liking-tweet-calling-trans-women-men-in-dresses/)", compounded by that fact that Rowling was "[holding her phone incorrectly](https://www.pinknews.co.uk/2018/03/22/jk-rowling-reps-blame-middle-aged-moment-for-liking-tweet-calling-trans-women-men-in-dresses/)".
+
+*Note: an original investigation by Applied PoliSci has revealed new evidence that Rowling had perfected a stable and sturdy two-handed phone grip as early as 2016.*
+
+``` {r, fig.align="center"} 
+blogdown::shortcode("tweet", "777219037004722180")
+```
+
+But in recent months, it seems that her PR team has been turfed out, leaving Rowling free to, erm, TERF-out.
+
+In the first tweet, back in December 2019, Rowling stated her support for Maya Forstater, a tax expert whose contract with a think tank was not renewed after she made a series of transphobic tweets.
+
+``` {r, fig.align="center"} 
+blogdown::shortcode("tweet", "1207646162813100033")
+```
+
+The key point of contention in this case was whether Forstater's view that "transwomen are men" constitutes a philosophical belief that is covered under the Equality Act 2010. If so, it would count as unlawful discrimination for her employer to choose not to renew her contract due to this belief.
+
+But, obviously, there are restrictions on what kind of beliefs receive this protection. While Forstater's belief meets many of the required criteria -- for example, her belief is sincerely held, it meets a reasonable threshold of cogency, it applies to an important aspect of human life -- an [employment tribunal ruled](https://drive.google.com/file/d/12P9zf82TicPs2cCxlTnm0TrNFDD8Gaz5/view) that it failed the final test. In order for a belief to be protected, it must be worthy of respect in a democratic society, not be incompatible with human dignity and not conflict with the fundamental rights of others.
+
+Contrary to Rowling's tweet, Forstater was not pushed out of her job for "stating that sex is real". As the judgment makes clear, the issue is that Forstater's belief conflicts with the legal right of someone who has obtained a Gender Recognition Certificate to be recognized and treated as a member of the sex to which they have transitioned.
+
+> When questioned during live evidence the Claimant stated that biological males cannot be women. She consider [sic] that if a trans woman says she is a woman that is untrue, even if she has a Gender Recognition Certificate. [Maya Forstater v CGD Europe and others: 2200909/2019]
+
+So far this is rather bog-standard TERF talk. But it was this more recent tweet by Rowling that really caught my attention:
+
+``` {r, fig.align="center"} 
+blogdown::shortcode("tweet", "1269382518362509313")
+```
+
+Apparently the use of the phrase "people who menstruate" finally pushed Rowling over the edge, since she followed it up a few days later with a [3,000 word letter](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/) published on her website, entitled "J.K. Rowling Writes about Her Reasons for Speaking out on Sex and Gender Issues".
+
+Did Rowling actually read the article that she tweeted about? We can't say for sure, but I for one struggle to understand what could be objectionable about using the phrase "people who menstruate" in an article about, uh, menstrual health.
+
+A more nuanced objection would be that language such as "people who menstruate" might tend to obscure the underlying gendered dynamics of issues like menstrual health. Not all women menstruate and not all those who menstruate are women. But access to menstrual materials may still be deeply connected with gender-based rights and attitudes.
+
+And, well, this is exactly what the article says! While the headline refers to "people who menstruate", the authors then highlight gendered societal norms as an important factor in menstrual health:
+
+> Strong taboos and stigma persist around menstruation in all corners of the world, restricting the lives of girls and women from engaging in the activities of daily life, and creating feelings of shame and embarrassment. ... Communication messaging aimed at households and families, including men and boys, may emphasize the support needed to manage menstruation during a pandemic, potentially contributing to lasting positive societal change. [[devex blog post](https://www.devex.com/news/sponsored/opinion-creating-a-more-equal-post-covid-19-world-for-people-who-menstruate-97312#.XtwLnv0aEeR.twitter), 28 May 2020]
+
+In her self-published letter, Rowling continues her objection. Language like "menstruators", she says, is "dehumanising and demeaning", and, like the "degrading slurs spat at us by violent men", it is "hostile and alienating". 
+
+Phew! This is... pretty strong stuff And look, don't get me wrong, I understand that describing people based on one particular aspect can be reductive and offensive, in many contexts.
+
+![](/post/2020-06-22-expecto-transphobum_files/jk_30rock.gif)
+
+But Rowling herself recognizes that the intent behind such language is *not* to dehumanize anyone, but simply to be inclusive. She writes: "I understand why trans activists consider this language to be appropriate and kind, but for those of us who've had degrading slurs spat at us by violent men, it’s not neutral, it’s hostile and alienating."
+
+And so I found myself puzzling over this reaction. How can something be seen as both kind and hostile? As both inclusive and alienating?
+
+One possible answer, I think, lies in the way we think about categories. 
+
+Lumping things together into categories is our way of making the world simpler and more predictable. We don't need to uniquely identify an animal to know that "big teeth" = danger.
+
+The classical theory of categories is probably familiar to most of us. It's basically... Venn diagrams!
+
+![](/post/2020-06-22-expecto-transphobum_files/jk_venn2.jpg)
+
+When something falls inside a circle, that means it belongs to that category. When the circles overlap, it means there are instances of things that belong to both categories. But, crucially, each *thing* is either inside a given circle, or not. So belonging to a category is a binary concept: it is or it isn't.
+
+What Venn diagrams fail to capture is the idea that some things or groups are more *representative* of a particular category than others. So, for example, robins and ostriches both fall under the larger category of birds, but (at least in the U.S. context) most people will say that robins are more representative of the category "bird" than ostriches. 
+
+The idea of *gradation* within categories has been around for a long time, but it was the psychologist [Eleanor Rosch](https://en.wikipedia.org/wiki/Eleanor_Rosch) who turned this insight into "prototype theory" in the 1970s.
+
+A *prototype* is a member of a group that shares a maximum number of attributes with other group members, and a minimum number of attributes with non-group members. So, while a robin and an ostrich both have some classic "bird" attributes (wings, feathers), the robin has *more* bird-like attributes (flight, song) and *fewer* un-bird-like attributes (huge, terrifying).
+
+Prototype theory also applies to the categories that *we* belong to. For example, @danbold2015no show that White Americans tend to rate their own group as more representative of "the values and ideals of America" -- i.e. more prototypical -- than other racial and ethnic groups.
+
+<details>
+<summary>Tell me more about this study </summary>
+@danbold2015no recruited 194 White American participants on MTurk. Participants were asked to rate the extent to which African Americans, Asian Americans, Latino Americans, and White Americans represent the values and ideals of America on a 7-point scale (1 = least representative to 7 = most representative). On average, the White American participants in this study rated their own group at around 6 on the 7-point scale, while the other groups were rated around 4 to 5.
+</details>
+
+One way to think about Rowling's rather extreme reaction to the phrase "people who menstruate" is that she's experiencing *prototypicality threat* -- the reaction produced when a subgroups prototypicality is threatened. 
+
+So, for example, if we asked people to imagine a person who menstruates, they would probably imagine a ciswoman. That's because the subgroup of ciswomen is seen as prototypical of this larger group. (Note: this is still true even though of course many ciswomen do not menstruate.) 
+
+By using the phrase "people who menstruate", the authors of this article were intentionally leveling the playing field -- referring to the larger group rather than its prototypical subgroup. And that can be threatening, because being prototypical feels good! Group members tend to think of themselves as prototypical, and are socially rewarded when they are seen as prototypical by others [@wenzel2008superordinate]. 
+
+Let's go back to the example from @danbold2015no. In their study, they showed participants one of two graphs: a graph showing that whites and ethnic minorities were project to grow at a similar pace, or a graph showing that whites would be outnumbered by ethnic minorities.
+
+<center>
+
+![**Figure 3 from @danbold2015no**](/post/2020-06-22-expecto-transphobum_files/danbold_fig3.png)
+
+</center>
+
+The participants who were shown the graph on the right hand side experienced more prototypicality threat than those who were shown the graph on the left hand side -- that is, they were more likely to agree with statements like: "Compared to today, 50 years from now what it means to be a true American will be less clear" or "50 years from now, the typical American and people like me will have less in common than in the past".
+
+This seems strikingly reminiscent of Rowling's reaction - that language like "menstruators" is "[alienating](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)". Or, as she has [written elsewhere](https://twitter.com/jk_rowling/status/1269389298664701952), that "erasing the concept of sex removes the ability of many to meaningfully discuss their lives".
+
+Prototypicality threat isn't just an uncomfortable feeling -- it's also reduces tolerance for diversity. So, in @danbold2015no, the projection of a "majority minority" America caused an increase in White Americans' prototypicality threat, and a *decrease* in diversity endorsement. That is, participants who experienced prototypicality threat were less likely to agree with statements like: "It is important to have multiple perspectives in America (i.e., from different cultures, races, and ethnicities)".
+
+
+<center>
+
+![**Figure 4 from @danbold2015no**](/post/2020-06-22-expecto-transphobum_files/danbold_fig4.png)
+
+</center>
+
+
+************************
+
+
+It's normal to panic when you see a famous person trending on Twitter. They either died, said something horrifically racist, or *please please please* ... it's their birthday. (*Phew.*)
+
+But only my fellow millenials know the true horror and logging on and seeing that "J.K. Rowling" is trending.
+
+ (Zoomers: on behalf of my generation, I accept your [roasting](https://www.buzzfeed.com/daniellaemanuel/gen-z-dragging-millennials-tiktok).)
+
+
+In the past Rowling seemed content to use her enormous platform to [spread](https://www.pinknews.co.uk/2019/12/19/jk-rowing-maya-forstater-tweets-transphobia-accusations/) and [legitimize](https://www.pinknews.co.uk/2019/06/25/jk-rowling-under-fire-following-transphobe-twitter/) [anti-trans](https://www.pinknews.co.uk/2020/05/18/jk-rowling-transphobic-transgender-twitter-tweets-alex-drummond/) [talking points](https://www.pinknews.co.uk/2020/06/07/jk-rowling-anti-trans-gender-women-period-lgb-alliance-harry-potter-backlash/) whilst using her professional PR team to [mitigate any damage to her book sales](https://www.pinknews.co.uk/2018/03/22/jk-rowling-reps-blame-middle-aged-moment-for-liking-tweet-calling-trans-women-men-in-dresses/). 
+
+No more. The PR team has been turfed out, leaving Rowling free to, erm, *TERF-out* -- with a [3,000 word blog post](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/) entitled "J.K. Rowling Writes about Her Reasons for Speaking out on Sex and Gender Issues".
+
+Now, one rational response to a piece of writing that has been described as a [transphobic manifesto](https://www.nbcnews.com/feature/nbc-out/j-k-rowling-doubles-down-what-some-critics-call-transphobic-n1229351) would be to ignore it. 
+
+On the other hand, that feels like a cop-out. I mean, I spent my pre-teens consistently funneled my pocket money into Rowling's coffers. Every year I used to queue up outside my local bookshop at midnight, hastily zigzagged forehead, waiting for the next installment. Well, here is my penance.
+
+I have read the entirety of J.K. Rowling's 3,000 word blog post. It is, ostensibly about "her reasons" for speaking out. But often we aren't the best judge of our own motivations and thought processes. 
+
+So let's dig a bit deeper -- and use existing research to help us contexualize and understand the choices that Rowling has made. 
+
+## What were J.R. Rowling's reasons for speaking out?
+
+Let's start with this passage:
+
+> Moreover, the 'inclusive' language that calls female people 'menstruators' and 'people with vulvas' strikes many women as dehumanising and demeaning. I understand why trans activists consider this language to be appropriate and kind, but for those of us who’ve had degrading slurs spat at us by violent men, it's not neutral, it's hostile and alienating. [[J.K. Rowling, 10/06/20]](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)
+
+Yikes How did we get from "appropriate and kind" to "dehumanising", "demeaning", "degrading", "violent", "hostile" and "alienating"? 
+
+I'm not quoting selectively here. In fact, judging by this tweet a few days prior to the blog post, it was the phrase "people who menstruate" that actually pushed Rowling over the edge.
+
+``` {r, fig.align="center"} 
+blogdown::shortcode("tweet", "1269382518362509313")
+```
+
+And look, if someone came up to me and said "what's up, menstruator" I would... probably find that offensive. 
+
+But the article that referred to "people who menstruate" was... *about menstrual health*. No-one is trying to replace the term "women" with "people who menstruate". We're just saying "people who menstruate" when we intend to refer to *people who menstruate*, when we previously might have said, less accurately, "women".
+
+So, what's the big deal? Why such a highly-charged and defensive response to a well-intentioned innocuous change?
+
+One way to understand this, I think, it to recognize that J.K. Rowling -- and many women of her generation -- are experiencing *prototypicality threat*.
+
+What's that? Well, before we get to that, we have to start with *categories*.
+
+Lumping things together into categories is our way of making the world simpler and more predictable. We don't need to uniquely identify an animal to know that big teeth means "potential threat".
+
+The classical theory of categories is probably familiar to most of us. It's basically... Venn diagrams!
+
+<center>
+
+![**Premium example of a Venn diagram**](/post/2020-06-22-expecto-transphobum_files/jk_venn2.jpg){width="80%"}
+
+</center>
+
+When something falls inside a circle, that means it belongs to that category. When the circles overlap, it means there are instances of things that belong to both categories. But, crucially, each *thing* is either inside a given circle, or not. So belonging to a category is a binary concept: it is or it isn't.
+
+What Venn diagrams fail to capture is the idea that some things or groups are more *representative* of a particular category than others. So, for example, robins and ostriches both fall under the larger category of birds, but (at least in the U.S. context) most people will say that robins are more representative of the category "bird" than ostriches. 
+
+The idea of *gradation* within categories has been around for a long time, but it was the psychologist [Eleanor Rosch](https://en.wikipedia.org/wiki/Eleanor_Rosch) who turned this insight into "prototype theory" in the 1970s.
+
+A *prototype* is a member of a group that shares a maximum number of attributes with other group members, and a minimum number of attributes with non-group members. So, while a robin and an ostrich both have some classic "bird" attributes (wings, feathers), the robin has *more* bird-like attributes (flight, song) and *fewer* un-bird-like attributes (huge, terrifying).
+
+Prototype theory also applies to the categories that *we* belong to. For example, @danbold2015no show that White Americans tend to rate their own group as more representative of "the values and ideals of America" -- i.e. more prototypical -- than other racial and ethnic groups.
+
+<details>
+<summary>Tell me more about this study </summary>
+@danbold2015no recruited 194 White American participants on MTurk. Participants were asked to rate the extent to which African Americans, Asian Americans, Latino Americans, and White Americans represent the values and ideals of America on a 7-point scale (1 = least representative to 7 = most representative). On average, the White American participants in this study rated their own group at around 6 on the 7-point scale, while the other groups were rated around 4 to 5.
+</details>
+
+How does this apply to our example? Well, suppose we asked people to imagine a person who menstruates. They would probably imagine a ciswoman. That's because the subgroup "ciswomen who menstruate" is seen as prototypical of the larger group "people who menstruate".
+
+So, one reason that the phrase "people who menstruate" might strike Rowling as *alienating* is that it threatens her status as a member of a prototypical subgroup (ciswomen). The authors of the article were intentionally leveling the playing field by referring to the larger group rather than its prototypical subgroup. 
+
+This isn't just about semantics. We all have psychological skin (brain tissue?) in the game here. It makes us feel good to think of ourselves as prototypical of our in-group -- and we gain social status when we are seen as prototypical by others [@wenzel2008superordinate]. 
+
+
+
+
+Let's go back to the example from @danbold2015no. In their study, they showed participants one of two graphs: a graph showing that whites and ethnic minorities were project to grow at a similar pace, or a graph showing that whites would be outnumbered by ethnic minorities.
+
+<center>
+
+![**Figure 3 from @danbold2015no**](/post/2020-06-22-expecto-transphobum_files/danbold_fig3.png){width="70%"}
+
+</center>
+
+The participants who were shown the graph on the right hand side experienced more prototypicality threat than those who were shown the graph on the left hand side -- that is, they were more likely to agree with statements like: "Compared to today, 50 years from now what it means to be a true American will be less clear" or "50 years from now, the typical American and people like me will have less in common than in the past".
+
+This seems strikingly reminiscent of Rowling's reaction - that language like "menstruators" is "[alienating](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)". Or, as she has [written elsewhere](https://twitter.com/jk_rowling/status/1269389298664701952), that "erasing the concept of sex removes the ability of many to meaningfully discuss their lives".
+
+And, of course, Rowling isn't the only one feeling threatened by new terminology. Try searching the phrase "[stop calling me cis](https://twitter.com/search?q=%22stop%20calling%20me%20cis%22&src=typed_query)" on Twitter. Or, if you want to crank that prototypicality threat all the way up to 11, what about Maya Forstater's statement that "[pronouns are Rohypnol](https://assets.publishing.service.gov.uk/media/5e15e7f8e5274a06b555b8b0/Maya_Forstater__vs_CGD_Europe__Centre_for_Global_Development_and_Masood_Ahmed_-_Judgment.pdf)". (Yes, this is the woman that Rowling chose to publicly defend after an employment tribunal ruled against her, tweeting [#IStandWithMaya](https://twitter.com/jk_rowling/status/1207646162813100033).)
+
+Prototypicality threat isn't just an uncomfortable feeling -- it has spillover effects onto other attitudes. So, in @danbold2015no, the projection of a "majority minority" America caused an increase in White Americans' prototypicality threat, and a *decrease* in diversity endorsement. That is, participants who experienced prototypicality threat were less likely to agree with statements like: "It is important to have multiple perspectives in America (i.e., from different cultures, races, and ethnicities)".
+
+
+<center>
+
+![**Figure 4 from @danbold2015no**](/post/2020-06-22-expecto-transphobum_files/danbold_fig4.png){width="70%"}
+
+</center>
+
+
+So, fellow armchair political psychologists, we might conclude that Rowling has experienced a rather acute case of prototypicality threat.
+
+That would help us to understand why she sees trans-inclusive language as both well-intentioned but also dangerous. 
+
+But this doesn't get us very far in understanding why Rowling draws a connection between the rights of trans folks to use public bathrooms and her own experience of sexual and physical assault by a cisman.
+
+Here's an excerpt:
+
+> On Saturday morning, I read that the Scottish government is proceeding with its controversial gender recognition plans, which will in effect mean that all a man needs to 'become a woman' is to say he’s one. To use a very contemporary word, I was 'triggered'. Ground down by the relentless attacks from trans activists on social media, when I was only there to give children feedback about pictures they’d drawn for my book under lockdown, I spent much of Saturday in a very dark place inside my head, as memories of a serious sexual assault I suffered in my twenties recurred on a loop. That assault happened at a time and in a space where I was vulnerable, and a man capitalised on an opportunity.  I couldn’t shut out those memories and I was finding it hard to contain my anger and disappointment about the way I believe my government is playing fast and loose with womens and girls' safety. [[J.K. Rowling, 10/06/20]](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)
+
+Sexual assault is a traumatic experience -- and it is extremely common for survivors to feel that they are reliving that trauma. 
+
+
+
+## References
+
+@noor2012suffering
+@craig2014discrimination
+@cortland2017solidarity
+@craig2012unto
+@becker2020experience
+
+************************
+
+One way to see these processes in a very simple context is through lab experiments.
+
+@seccilmics2018experimental recruited participants to play two games. One of them was a "matrix task", where respondents are given a sheet of paper with a series of number grids and are asked to search each grid for 3 numbers that sum to 10. Crucially, participants are given the opportunity to cheat, since they self-report the number of correct answers and collect payment themselves. The other game was a one-shot public goods game, where participants are assigned to groups of three. Each group member has an initial endowment (of, say, $10) and can choose how much to contribute to a common pool which is doubled in value and redistributed equally among the three members. 
+
+In the experiment, the order of the games was randomly assigned. Half the participants completed the matrix task and then played the public good games; for the other half, the order was reversed.
+
+Participants who had first completed the matrix task -- and thus had an opportunity to cheat -- tended to contribute more in the public goods game, compared to those who came in with a "clean slate". This is the moral cleansing effect. Similarly, participants who had an opportunity to demonstrate their generosity by playing the public goods game first tended to cheat more on the matrix task compared to those who did the task first -- the moral licensing effect.
+
+The licensing effect, in particular, has been replicated across many different contexts (see @blanken2015meta for a meta-analysis). @monin2001moral show that when participants were allowed to first prove their "moral credentials" -- e.g. by having to opportunity to disagree with blatantly sexist statements -- they became more likely to favor a man for a stereotypically male job. Intriguingly, they found being able to establish moral credentials made participants more likely to express a politically incorrect opinion *even when the audience was unaware of their credentials*. Similarly, @effron2009endorsing found that when Whites have the opportunity to express support for Obama, they became more likely to describe a job as "better suited" for Whites over Blacks. 
+
+So far, we have been talking about moral *self*-image. That is, our conception of ourselves as morally good individuals. But we also have *group* identities that generate their own moral *group*-images. And the need to preserve the moral status of one's in-group can be equally powerful in shaping our behavior and the narratives we choose to tell.
+

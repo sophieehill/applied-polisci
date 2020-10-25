@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LGBT on Applied Poli Sci</title>
+    <link>/tags/lgbt/</link>
+    <description>Recent content in LGBT on Applied Poli Sci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lgbt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expecto transphobum!</title>
+      <link>/post/expecto-transphobum/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/expecto-transphobum/</guid>
+      <description>In the Harry Potter books, when a witch or wizard wants to cast a Patronus Charm, they have to fixate on a particularly happy memory.1 If successful, they can produce a corporeal Patronus – an animal formed of dazzling, blinding light – that can drive away Dementors.
+What about us mere muggles? Well, we do things a little differently. Often, when we need a defensive boost, we tend to fixate on bad memories – instances where we were wronged or victimized.</description>
+    </item>
+    
+  </channel>
+</rss>

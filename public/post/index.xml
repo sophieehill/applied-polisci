@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Expecto transphobum!</title>
+      <link>/post/expecto-transphobum/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/expecto-transphobum/</guid>
+      <description>In the Harry Potter books, when a witch or wizard wants to cast a Patronus Charm, they have to fixate on a particularly happy memory.1 If successful, they can produce a corporeal Patronus – an animal formed of dazzling, blinding light – that can drive away Dementors.
+What about us mere muggles? Well, we do things a little differently. Often, when we need a defensive boost, we tend to fixate on bad memories – instances where we were wronged or victimized.</description>
+    </item>
     
     <item>
       <title>Statues, in two dimensions</title>
@@ -18,18 +28,10 @@
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/statues-2d/</guid>
-      <description>Statues are, obviously, three dimensional. But political scientists have long understood the politics of statues in two dimensions.
+      <description>Statues are, obviously, three dimensional. But the politics of statues – as we’ve seen unfolding on the streets of London and many other cities in recent weeks –
+But political scientists have long understood the politics of statues in two dimensions.
 In fact, if you’ve ever seen the “political compass” meme, you’re probably already familiar with this way of dividing up the political space!
   #slide-window { position: relative; width: 500px; height: 500px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 500px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.</description>
-    </item>
-    
-    <item>
-      <title>kaufman</title>
-      <link>/post/kaufman/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/kaufman/</guid>
-      <description>{{&amp;lt; tweet-single 1234089084483751936 &amp;gt;}} {{&amp;lt; tweet-single 1234089087520382977 &amp;gt;}} {{&amp;lt; tweet-single 1234089090276089857 &amp;gt;}} {{&amp;lt; tweet-single 1234089093212069888 &amp;gt;}} {{&amp;lt; tweet-single 1234089095820988416 &amp;gt;}} {{&amp;lt; tweet-single 1234089098119438336 &amp;gt;}} {{&amp;lt; tweet-single 1234089101768450052 &amp;gt;}} {{&amp;lt; tweet-single 1234089104155009030 &amp;gt;}} {{&amp;lt; tweet-single 1234089106554093568 &amp;gt;}} {{&amp;lt; tweet-single 1234089108726829056 &amp;gt;}} {{&amp;lt; tweet-single 1234089111457292288 &amp;gt;}} {{&amp;lt; tweet-single 1234089114019954689 &amp;gt;}} {{&amp;lt; tweet-single 1234089116238798851 &amp;gt;}}</description>
     </item>
     
     <item>
